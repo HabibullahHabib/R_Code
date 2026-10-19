@@ -1,0 +1,9 @@
+Replicates requested per setting: 10000
+Jobs attempted: 100000
+Jobs successful: 100000
+Jobs failed: 0
+None-adjustment equality: TRUE
+Completion time: 2026-10-19 04:55:07.653896
+The figures were generated from the simulation results; the original script does not define plots.
+Workers: 2 . All statistical parameters and per-job seeds were preserved.
+CSV/PDF tables are exports of the original gt table data. Warnings and errors are retained, including failed jobs omitted by the original script.
