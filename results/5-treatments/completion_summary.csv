@@ -1,0 +1,11 @@
+"scenario","missing_rate","attempted","successful","failed"
+"Scenario I: all means are 0 for T0,T1,...,T5",0,10000,10000,0
+"Scenario I: all means are 0 for T0,T1,...,T5",0.1,10000,10000,0
+"Scenario I: all means are 0 for T0,T1,...,T5",0.2,10000,10000,0
+"Scenario I: all means are 0 for T0,T1,...,T5",0.3,10000,10000,0
+"Scenario I: all means are 0 for T0,T1,...,T5",0.4,10000,10000,0
+"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,10000,10000,0
+"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,10000,10000,0
+"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,10000,10000,0
+"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,10000,10000,0
+"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,10000,10000,0

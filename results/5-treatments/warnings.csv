@@ -1,0 +1,4 @@
+"index","scenario","missing_rate","sim","warning","call"
+,"",,,"Since gt v0.6.0 `fmt_missing()` is deprecated and will soon be removed.
+ℹ Use `sub_missing()` instead.
+This warning is displayed once every 8 hours.","NULL"
