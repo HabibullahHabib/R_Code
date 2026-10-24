@@ -1,0 +1,9 @@
+Replicates requested per N/scenario: 10000
+Jobs attempted: 40000
+Jobs successful: 40000
+Jobs failed: 0
+Bonferroni/Holm equality across variants: TRUE
+Workers: 2
+Completed: 2026-10-24 22:17:27.940783
+Original statistical script and per-replicate seeds preserved. Execution instrumentation adds resource-limited scheduling, logs, checkpoints, and exports.
+The supplied script contains no plots; supplemental joint FWER and joint-power plots were generated from its results.

@@ -1,0 +1,9 @@
+"N","scenario","sim","warning","call"
+,"",,"There was 1 warning in `mutate()`.
+ℹ In argument: `MetricOrder = case_when(...)`.
+Caused by warning:
+! NAs introduced by coercion","NULL"
+,"",,"There was 1 warning in `mutate()`.
+ℹ In argument: `MetricOrder = case_when(...)`.
+Caused by warning:
+! NAs introduced by coercion","NULL"
