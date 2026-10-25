@@ -1,0 +1,5 @@
+"scenario","N","attempted","successful","failed","achieved_missing_rate"
+"Scenario I",40,10000,10000,0,0.299702916666667
+"Scenario II",40,10000,10000,0,0.29969875
+"Scenario I",80,10000,10000,0,0.300017708333333
+"Scenario II",80,10000,10000,0,0.300013333333333
