@@ -1,0 +1,1 @@
+Queued full run: 600,000 jobs; 10,000 replicates per setting; 40 imputations. Original code and seeds preserved. Run: ./run.sh full. Checkpoints allow resuming. Raw CSV exports are losslessly gzip compressed. Queue: /workspace/paper-feedback-queue.py.
