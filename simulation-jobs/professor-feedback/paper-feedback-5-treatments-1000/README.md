@@ -1,0 +1,1 @@
+User-authorized reduced run: 1000 replicates per setting, 60000 jobs total, 40 imputations. Original uploaded script is unchanged; runner overrides n_sim only. Existing deterministic prefix checkpoints are reused after metadata and job-grid verification. The original 10000-replicate run is paused and preserved. The 10-treatment run remains disabled.

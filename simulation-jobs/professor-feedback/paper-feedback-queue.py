@@ -4,7 +4,7 @@ BASE=Path('/workspace'); state=BASE/'paper-feedback-queue-status.json'
 lock=(BASE/'paper-feedback-queue.lock').open('w');fcntl.flock(lock,fcntl.LOCK_EX|fcntl.LOCK_NB)
 def status(**d): state.write_text(json.dumps(d,indent=2)+'\n')
 for k in (5,):
- root=BASE/f'paper-feedback-{k}-treatments';full=root/'full'
+ root=BASE/f'paper-feedback-{k}-treatments-1000';full=root/'full'
  while not (root/'smoke/COMPLETED.txt').exists():
   if (root/'smoke/FAILED.txt').exists():status(state='blocked_smoke_validation',treatments=k);raise SystemExit(1)
   status(state='waiting_for_smoke_validation',treatments=k);time.sleep(30)
