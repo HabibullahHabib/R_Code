@@ -1,0 +1,181 @@
+"variance_ratio","mar_mechanism","gamma_control","gamma_treatment","scenario","mr","comparison","method","bias","empirical_SD","RMSE"
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T1vs.T0","Naive deletion",-0.0148428987989167,1.46383040775368,1.46317359696189
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T2vs.T0","Naive deletion",-0.0271689611502312,1.55054003549919,1.55000270313769
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T3vs.T0","Naive deletion",-0.0826092622750578,1.65536568366705,1.6565988051817
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T4vs.T0","Naive deletion",0.00247981049364457,1.66158591685162,1.66075676749506
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T5vs.T0","Naive deletion",0.00314935497091792,1.78589616022592,1.78500576706388
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T1vs.T0","Naive deletion",-0.147073854914605,1.57607615991414,1.58213866793884
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T2vs.T0","Naive deletion",-0.183062732649265,1.69849529484573,1.7074874360977
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T3vs.T0","Naive deletion",-0.252499314398512,1.75841011602288,1.77557597240084
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T4vs.T0","Naive deletion",-0.295658565462811,1.87378705961402,1.89604347370088
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T5vs.T0","Naive deletion",-0.290112744375649,1.96002640770653,1.98041087147016
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T1vs.T0","Naive deletion",-0.360838203656239,1.7013257122949,1.7383379646531
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T2vs.T0","Naive deletion",-0.47739158857744,1.83363967776562,1.89387828601867
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T3vs.T0","Naive deletion",-0.539887489153051,1.88363942271108,1.95857802455264
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T4vs.T0","Naive deletion",-0.701188824852378,1.93525299599935,2.05745588590953
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T5vs.T0","Naive deletion",-0.766189167999106,2.03773820738635,2.1760676611722
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T1vs.T0","Naive deletion",-0.617784087402791,1.79738729620938,1.89974410648656
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T2vs.T0","Naive deletion",-0.844904082068206,1.86004360127138,2.04209826999767
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T3vs.T0","Naive deletion",-0.966037211249781,2.058781452164,2.27322906461844
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T4vs.T0","Naive deletion",-1.020931632166,2.03599364764131,2.27671391717529
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T5vs.T0","Naive deletion",-1.07633961893439,2.16218036444652,2.41430235881041
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T1vs.T0","Naive deletion",-0.736540649409154,1.91272577742122,2.04874437349906
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T2vs.T0","Naive deletion",-0.924081091979254,1.97185223435866,2.17674961754095
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T3vs.T0","Naive deletion",-1.05261519910989,2.15008204938684,2.39295397441605
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T4vs.T0","Naive deletion",-1.22250840494293,2.1736156501875,2.49287127423407
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T5vs.T0","Naive deletion",-1.26681126862286,2.2417448930178,2.57394746168524
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T1vs.T0","Naive deletion",0.0112880803859875,1.50559688691536,1.50488623645182
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T2vs.T0","Naive deletion",-0.016767831233815,1.5688075402894,1.56811259211024
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T3vs.T0","Naive deletion",0.0211413489667001,1.67409372931688,1.67339002667032
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T4vs.T0","Naive deletion",0.0588485491046257,1.72830379941095,1.72844153524699
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T5vs.T0","Naive deletion",0.0710551260017362,1.80730782475091,1.80780088581779
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T1vs.T0","Naive deletion",-0.199753790241495,1.60438172776421,1.61597285384722
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T2vs.T0","Naive deletion",-0.207568635491648,1.69968419821092,1.71146784536377
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T3vs.T0","Naive deletion",-0.319079030132531,1.75113712059973,1.77910824892627
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T4vs.T0","Naive deletion",-0.281130269880954,1.93078930589141,1.95019322761726
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T5vs.T0","Naive deletion",-0.353004610437741,1.85916212970739,1.8914649337759
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T1vs.T0","Naive deletion",-0.385085577908871,1.70672454190414,1.74879577297904
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T2vs.T0","Naive deletion",-0.497031793061104,1.84928646879087,1.91402225340326
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T3vs.T0","Naive deletion",-0.604087763500321,1.89929002458736,1.99213888092933
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T4vs.T0","Naive deletion",-0.686539952140449,1.99386076334043,2.10780510691333
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T5vs.T0","Naive deletion",-0.742197497469072,2.01930625502332,2.15043653221249
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T1vs.T0","Naive deletion",-0.542136424286165,1.79749372280538,1.87660986951977
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T2vs.T0","Naive deletion",-0.697176444503352,1.83656462162031,1.96358132873286
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T3vs.T0","Naive deletion",-0.779993377743481,1.90852541773868,2.06087759709502
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T4vs.T0","Naive deletion",-0.940338454202515,2.0866928429759,2.28783066295517
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T5vs.T0","Naive deletion",-1.01122192384505,2.1086061733553,2.33759353900173
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T1vs.T0","Naive deletion",-0.739155441058173,1.97093253793191,2.10405353070105
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T2vs.T0","Naive deletion",-0.954740057041881,2.04420316309184,2.25524197857858
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T3vs.T0","Naive deletion",-1.09680181948139,2.21465356721709,2.47037648215455
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T4vs.T0","Naive deletion",-1.30902990539865,2.29541928510947,2.64144658056642
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T5vs.T0","Naive deletion",-1.33238843361051,2.31481357035497,2.66988060438161
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T1vs.T0","Complete data",-0.0148428987989167,1.46383040775368,1.46317359696189
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T2vs.T0","Complete data",-0.0271689611502312,1.55054003549919,1.55000270313769
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T3vs.T0","Complete data",-0.0826092622750578,1.65536568366705,1.6565988051817
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T4vs.T0","Complete data",0.00247981049364457,1.66158591685162,1.66075676749506
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T5vs.T0","Complete data",0.00314935497091792,1.78589616022592,1.78500576706388
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T1vs.T0","Imputation using linear regression",0.0830382217035649,1.5830165772487,1.58440237585786
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T2vs.T0","Imputation using linear regression",0.089440673540302,1.72227326470805,1.72373391427248
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T3vs.T0","Imputation using linear regression",0.0658095378662268,1.74976482280419,1.75012746777543
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T4vs.T0","Imputation using linear regression",0.043237766098378,1.8946364934175,1.89418248834804
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T5vs.T0","Imputation using linear regression",0.104118053075202,1.98188240764481,1.9836256171038
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T1vs.T0","Imputation using linear regression",0.0263315308713128,1.67868324183622,1.67805029677699
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T2vs.T0","Imputation using linear regression",0.00998096816619934,1.82360570558518,1.82272100207325
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T3vs.T0","Imputation using linear regression",0.0198998838150115,1.90956811235613,1.90871682832407
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T4vs.T0","Imputation using linear regression",-0.0308482556940211,1.98546936835756,1.98471613561055
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T5vs.T0","Imputation using linear regression",-0.0825811079898826,2.08075214334224,2.08135042506978
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T1vs.T0","Imputation using linear regression",-0.01421184135618,1.88868690634519,1.88779582275317
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T2vs.T0","Imputation using linear regression",-0.111525855608111,1.94561217855073,1.94783453071474
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T3vs.T0","Imputation using linear regression",-0.0865019070277502,2.21196764562047,2.21255296983506
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T4vs.T0","Imputation using linear regression",-0.00586732613038979,2.17257013513373,2.17149150507176
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T5vs.T0","Imputation using linear regression",0.0197192211814143,2.31661955964355,2.31554492628042
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T1vs.T0","Imputation using linear regression",0.0263129903062405,1.98635033320961,1.98553127199109
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T2vs.T0","Imputation using linear regression",0.0655528044678736,2.10211283795046,2.10208388873191
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T3vs.T0","Imputation using linear regression",0.0679917955814252,2.238824716616,2.23873773807593
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T4vs.T0","Imputation using linear regression",0.0743596572347285,2.3830454360161,2.38301405853829
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T5vs.T0","Imputation using linear regression",-0.00159203876088927,2.5046759741151,2.50342382911115
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T1vs.T0","Imputation using predictive mean matching method",-0.0305523363926994,1.56575485137091,1.56526998041744
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T2vs.T0","Imputation using predictive mean matching method",-0.0429777238999139,1.69891953826619,1.69861365667909
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T3vs.T0","Imputation using predictive mean matching method",-0.0900418027971332,1.74391628337497,1.74536823784206
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T4vs.T0","Imputation using predictive mean matching method",-0.128024408033047,1.86842111084609,1.87186984030944
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T5vs.T0","Imputation using predictive mean matching method",-0.0822708093211687,1.95660691377689,1.95735811503436
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T1vs.T0","Imputation using predictive mean matching method",-0.187000277242335,1.67274523277027,1.68233398611293
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T2vs.T0","Imputation using predictive mean matching method",-0.254279293961329,1.81024611281368,1.82712122129473
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T3vs.T0","Imputation using predictive mean matching method",-0.285378698122113,1.87641121706984,1.89706065739392
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T4vs.T0","Imputation using predictive mean matching method",-0.390030702824282,1.92829047227398,1.96639512572187
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T5vs.T0","Imputation using predictive mean matching method",-0.449313558393145,2.04102968091845,2.08890378667558
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T1vs.T0","Imputation using predictive mean matching method",-0.366168741083194,1.81357125805957,1.84927856590027
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T2vs.T0","Imputation using predictive mean matching method",-0.531905348351851,1.88613938435535,1.95879747678122
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T3vs.T0","Imputation using predictive mean matching method",-0.612751425889905,2.09357046702079,2.18039413249334
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T4vs.T0","Imputation using predictive mean matching method",-0.589127704478808,2.05522424894898,2.13700590053909
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T5vs.T0","Imputation using predictive mean matching method",-0.618851619623911,2.19691380158359,2.28135511230672
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T1vs.T0","Imputation using predictive mean matching method",-0.477409706700025,1.91169869849216,1.96948149266608
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T2vs.T0","Imputation using predictive mean matching method",-0.5972785896923,1.98758160375933,2.07443290194591
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T3vs.T0","Imputation using predictive mean matching method",-0.641697969484065,2.14628310818792,2.23912950347948
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T4vs.T0","Imputation using predictive mean matching method",-0.75996393834304,2.19457842022927,2.32140118369818
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T5vs.T0","Imputation using predictive mean matching method",-0.829902580188644,2.26736446032566,2.41340816004167
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T1vs.T0","Imputation using propensity-score method",0.00175948478739518,1.57542564749325,1.574638720658
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T2vs.T0","Imputation using propensity-score method",-0.012189877066336,1.71736253218264,1.71654691924826
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T3vs.T0","Imputation using propensity-score method",-0.0532292549004766,1.75685176323121,1.756779708281
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T4vs.T0","Imputation using propensity-score method",-0.0935772681724953,1.87793638370021,1.87932836973276
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T5vs.T0","Imputation using propensity-score method",-0.0412229259228566,1.95844954551889,1.95790409043508
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T1vs.T0","Imputation using propensity-score method",-0.136366298883662,1.69184005712788,1.69648348756915
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T2vs.T0","Imputation using propensity-score method",-0.184169925516305,1.8453623265982,1.85361142523889
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T3vs.T0","Imputation using propensity-score method",-0.199325604456624,1.90753615655373,1.91697318472722
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T4vs.T0","Imputation using propensity-score method",-0.289523484217928,1.95808146047717,1.97840156964461
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T5vs.T0","Imputation using propensity-score method",-0.339942728538811,2.07149642941329,2.09818193164972
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T1vs.T0","Imputation using propensity-score method",-0.258016643746898,1.86279427125859,1.87965557562741
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T2vs.T0","Imputation using propensity-score method",-0.389372371187339,1.9495179245229,1.98706576673801
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T3vs.T0","Imputation using propensity-score method",-0.487362580654873,2.15321725655334,2.20663329404497
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T4vs.T0","Imputation using propensity-score method",-0.420384568956987,2.11426765529391,2.15461847581444
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T5vs.T0","Imputation using propensity-score method",-0.455649600321926,2.25767201279172,2.30208653023713
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T1vs.T0","Imputation using propensity-score method",-0.342295093408372,1.92625064764171,1.95547872577383
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T2vs.T0","Imputation using propensity-score method",-0.425992189691749,1.9627890303034,2.00752523829222
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T3vs.T0","Imputation using propensity-score method",-0.46891455654039,2.16293671134797,2.21212517354126
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T4vs.T0","Imputation using propensity-score method",-0.551383200245612,2.16456361299267,2.23263828968561
+4,"control_MCAR_treatment_MAR",0,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T5vs.T0","Imputation using propensity-score method",-0.587260496994244,2.36256823225449,2.43331498469392
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T1vs.T0","Complete data",0.0112880803859875,1.50559688691536,1.50488623645182
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T2vs.T0","Complete data",-0.016767831233815,1.5688075402894,1.56811259211024
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T3vs.T0","Complete data",0.0211413489667001,1.67409372931688,1.67339002667032
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T4vs.T0","Complete data",0.0588485491046257,1.72830379941095,1.72844153524699
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T5vs.T0","Complete data",0.0710551260017362,1.80730782475091,1.80780088581779
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T1vs.T0","Imputation using linear regression",0.0176175925900061,1.59444751635864,1.59374747030654
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T2vs.T0","Imputation using linear regression",0.0746572075171824,1.70231934211948,1.70310509072277
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T3vs.T0","Imputation using linear regression",0.000983825775044457,1.7616962546134,1.7608154610119
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T4vs.T0","Imputation using linear regression",0.0756131047423143,1.96505315519573,1.96552532684031
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T5vs.T0","Imputation using linear regression",0.0283976862918263,1.8655186106591,1.86480185425033
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T1vs.T0","Imputation using linear regression",-0.000203446607082243,1.71293202849025,1.71207536034019
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T2vs.T0","Imputation using linear regression",-0.0250237294392381,1.87260696900126,1.87183770410973
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T3vs.T0","Imputation using linear regression",-0.0601635704081245,1.93769209532233,1.93765726092687
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T4vs.T0","Imputation using linear regression",-0.0274711959009589,1.99299543549743,1.9921881039982
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T5vs.T0","Imputation using linear regression",-0.0479842376173375,2.04831626585046,2.04785409941293
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T1vs.T0","Imputation using linear regression",-0.0133905390137328,1.78046466936445,1.77962459270243
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T2vs.T0","Imputation using linear regression",-0.00290101838739624,1.91551929149821,1.91456349015993
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T3vs.T0","Imputation using linear regression",0.0567089743246953,1.99172985810816,1.99154129950167
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T4vs.T0","Imputation using linear regression",-0.00478596982822851,2.17499163516511,2.17390913562006
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T5vs.T0","Imputation using linear regression",0.050076265676424,2.23676085779699,2.23620295774374
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T1vs.T0","Imputation using linear regression",-0.00605420441142306,2.02488763024502,2.02388398842306
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T2vs.T0","Imputation using linear regression",-0.048704441220561,2.13645564972902,2.13594251399947
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T3vs.T0","Imputation using linear regression",-0.00770051542410535,2.34550159537488,2.3443411983135
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T4vs.T0","Imputation using linear regression",-0.0705745301648989,2.40715869582034,2.40698968385505
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T5vs.T0","Imputation using linear regression",0.0849689078457262,2.6195797143989,2.61964795297204
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T1vs.T0","Imputation using predictive mean matching method",-0.0964371838537522,1.5918421194652,1.5939659665124
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T2vs.T0","Imputation using predictive mean matching method",-0.0715740877827178,1.70229549695456,1.70294891263207
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T3vs.T0","Imputation using predictive mean matching method",-0.161587645149584,1.75301099247474,1.75956956647429
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T4vs.T0","Imputation using predictive mean matching method",-0.107924231518113,1.94032579009707,1.94235603000399
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T5vs.T0","Imputation using predictive mean matching method",-0.163631044225423,1.86267046816553,1.86891595593203
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T1vs.T0","Imputation using predictive mean matching method",-0.212787126809573,1.69223843268723,1.70472449489252
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T2vs.T0","Imputation using predictive mean matching method",-0.274979067396849,1.84255875038934,1.86205295665675
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T3vs.T0","Imputation using predictive mean matching method",-0.348646353621596,1.90480432510346,1.93551169392219
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T4vs.T0","Imputation using predictive mean matching method",-0.374259426317225,1.97385708179325,2.00805522477677
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T5vs.T0","Imputation using predictive mean matching method",-0.430110545172403,2.02106923681601,2.06534046108929
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T1vs.T0","Imputation using predictive mean matching method",-0.312488477891905,1.7646827358841,1.79126773598596
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T2vs.T0","Imputation using predictive mean matching method",-0.40984767450278,1.83583555665756,1.88013218024489
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T3vs.T0","Imputation using predictive mean matching method",-0.434099295701518,1.90626442921085,1.95413725938815
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T4vs.T0","Imputation using predictive mean matching method",-0.553091498501082,2.07288911690612,2.14440729046769
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T5vs.T0","Imputation using predictive mean matching method",-0.556143639951243,2.1066088468804,2.17776462942607
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T1vs.T0","Imputation using predictive mean matching method",-0.461257774768622,1.95969815264902,2.01229599399069
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T2vs.T0","Imputation using predictive mean matching method",-0.608722818346077,2.03065161747886,2.11895396720956
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T3vs.T0","Imputation using predictive mean matching method",-0.709592201642089,2.20174623628857,2.31221969007124
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T4vs.T0","Imputation using predictive mean matching method",-0.844160328612687,2.28740714708914,2.43713066648085
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T5vs.T0","Imputation using predictive mean matching method",-0.819160913221868,2.31682007437991,2.45628015575242
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T1vs.T0","Imputation using propensity-score method",-0.0914372776053497,1.58881846539068,1.59065412569368
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T2vs.T0","Imputation using propensity-score method",-0.0571952068124528,1.70160411137799,1.70171454333238
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T3vs.T0","Imputation using propensity-score method",-0.156369482271572,1.75546018356751,1.76153632679564
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T4vs.T0","Imputation using propensity-score method",-0.101692377903896,1.9520666373903,1.95373870627042
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T5vs.T0","Imputation using propensity-score method",-0.178338325346176,1.87718820076423,1.88470588258079
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T1vs.T0","Imputation using propensity-score method",-0.154166418724326,1.71041734442316,1.71649912591698
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T2vs.T0","Imputation using propensity-score method",-0.202822152433822,1.86417308520414,1.87424730914194
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T3vs.T0","Imputation using propensity-score method",-0.286318705270765,1.9439782759069,1.96398851489734
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T4vs.T0","Imputation using propensity-score method",-0.311062129608388,1.99490996932533,2.01803017034047
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T5vs.T0","Imputation using propensity-score method",-0.360359382674814,2.04448095356523,2.07498948233557
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T1vs.T0","Imputation using propensity-score method",-0.274109479775522,1.78684436950387,1.80686357950169
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T2vs.T0","Imputation using propensity-score method",-0.359848530966411,1.87196371993617,1.90531752887207
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T3vs.T0","Imputation using propensity-score method",-0.356790429065682,1.94615153942507,1.97762931786142
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T4vs.T0","Imputation using propensity-score method",-0.494072058153295,2.12758898701691,2.18316638427441
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T5vs.T0","Imputation using propensity-score method",-0.492091604633092,2.1803383270979,2.23411626661233
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T1vs.T0","Imputation using propensity-score method",-0.439433347504166,1.95223850245096,2.00013139622882
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T2vs.T0","Imputation using propensity-score method",-0.581034865022005,2.04056151582147,2.12069067120193
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T3vs.T0","Imputation using propensity-score method",-0.681581781390064,2.23318792659954,2.3338155265396
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T4vs.T0","Imputation using propensity-score method",-0.835170823819215,2.29425666481199,2.44046313951862
+4,"control_MCAR_treatment_MAR",0,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T5vs.T0","Imputation using propensity-score method",-0.816936998980944,2.39367361215496,2.52810793845308

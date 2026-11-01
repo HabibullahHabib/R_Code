@@ -7,3 +7,5 @@
 [Simulation II, ten treatments: CSV tables, plots and PDF report](results/simulation-ii-10-treatments/README.md).
 
 [Simulation II, five treatments: CSV tables, plots and PDF report](results/simulation-ii-5-treatments/README.md).
+
+[Professor feedback: paper-feedback-5-treatments-1000](results/paper-feedback-5-treatments-1000/README.md).

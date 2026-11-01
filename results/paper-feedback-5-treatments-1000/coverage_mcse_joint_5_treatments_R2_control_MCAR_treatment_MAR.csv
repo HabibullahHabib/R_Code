@@ -1,0 +1,79 @@
+"variance_version","scenario","method","mr","joint_coverage","joint_mcse"
+"nonshrink","Scenario I: all means are 0 for T0,T1,...,T5","Complete data",0,0.944,0.00727076337120113
+"nonshrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using linear regression",0.1,0.935,0.0077958322198467
+"nonshrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using linear regression",0.2,0.95,0.00689202437604511
+"nonshrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using linear regression",0.3,0.948,0.00702111102319284
+"nonshrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using linear regression",0.4,0.968,0.00556560868189635
+"nonshrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using predictive mean matching method",0.1,0.919,0.00862780389206894
+"nonshrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using predictive mean matching method",0.2,0.892,0.00981509042240569
+"nonshrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using predictive mean matching method",0.3,0.863,0.0108734079294396
+"nonshrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using predictive mean matching method",0.4,0.837,0.0116803681448831
+"nonshrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using propensity-score method",0.1,0.915,0.00881901355027874
+"nonshrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using propensity-score method",0.2,0.896,0.00965318600255895
+"nonshrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using propensity-score method",0.3,0.847,0.0113838042850358
+"nonshrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using propensity-score method",0.4,0.829,0.0119062588582644
+"nonshrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Complete data",0,0.939,0.00756828910652864
+"nonshrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using linear regression",0.1,0.941,0.00745110730026082
+"nonshrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using linear regression",0.2,0.942,0.00739161687318817
+"nonshrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using linear regression",0.3,0.961,0.00612200947402077
+"nonshrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using linear regression",0.4,0.954,0.00662449998113065
+"nonshrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using predictive mean matching method",0.1,0.927,0.00822623850857729
+"nonshrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using predictive mean matching method",0.2,0.893,0.00977501918156686
+"nonshrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using predictive mean matching method",0.3,0.875,0.0104582503316759
+"nonshrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using predictive mean matching method",0.4,0.813,0.0123300851578568
+"nonshrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using propensity-score method",0.1,0.924,0.00837997613361756
+"nonshrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using propensity-score method",0.2,0.885,0.0100883596287999
+"nonshrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using propensity-score method",0.3,0.859,0.0110054077616415
+"nonshrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using propensity-score method",0.4,0.797,0.0127197091161709
+"pooled","Scenario I: all means are 0 for T0,T1,...,T5","Complete data",0,0.934,0.00785136930732467
+"pooled","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using linear regression",0.1,0.936,0.0077397674383666
+"pooled","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using linear regression",0.2,0.947,0.00708456067798138
+"pooled","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using linear regression",0.3,0.952,0.00675988165576884
+"pooled","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using linear regression",0.4,0.971,0.00530650544143696
+"pooled","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using predictive mean matching method",0.1,0.913,0.00891240708226459
+"pooled","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using predictive mean matching method",0.2,0.893,0.00977501918156686
+"pooled","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using predictive mean matching method",0.3,0.856,0.0111024321659716
+"pooled","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using predictive mean matching method",0.4,0.84,0.0115931013969516
+"pooled","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using propensity-score method",0.1,0.91,0.00904986187739901
+"pooled","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using propensity-score method",0.2,0.883,0.010164201887015
+"pooled","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using propensity-score method",0.3,0.84,0.0115931013969516
+"pooled","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using propensity-score method",0.4,0.825,0.0120156148406979
+"pooled","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Complete data",0,0.933,0.00790638982089803
+"pooled","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using linear regression",0.1,0.929,0.00812151463706124
+"pooled","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using linear regression",0.2,0.945,0.00720936890441875
+"pooled","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using linear regression",0.3,0.962,0.00604615580348373
+"pooled","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using linear regression",0.4,0.961,0.00612200947402077
+"pooled","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using predictive mean matching method",0.1,0.901,0.00944452222190196
+"pooled","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using predictive mean matching method",0.2,0.893,0.00977501918156686
+"pooled","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using predictive mean matching method",0.3,0.873,0.0105295299040366
+"pooled","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using predictive mean matching method",0.4,0.815,0.0122790471943062
+"pooled","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using propensity-score method",0.1,0.896,0.00965318600255895
+"pooled","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using propensity-score method",0.2,0.878,0.0103496859855746
+"pooled","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using propensity-score method",0.3,0.844,0.0114744934528719
+"pooled","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using propensity-score method",0.4,0.784,0.0130132240432569
+"shrink","Scenario I: all means are 0 for T0,T1,...,T5","Complete data",0,0.937,0.00768316341099159
+"shrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using linear regression",0.1,0.937,0.00768316341099159
+"shrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using linear regression",0.2,0.95,0.00689202437604511
+"shrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using linear regression",0.3,0.95,0.00689202437604511
+"shrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using linear regression",0.4,0.969,0.00548078461536303
+"shrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using predictive mean matching method",0.1,0.916,0.00877177291087725
+"shrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using predictive mean matching method",0.2,0.894,0.00973468027209934
+"shrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using predictive mean matching method",0.3,0.86,0.0109726933794762
+"shrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using predictive mean matching method",0.4,0.84,0.0115931013969516
+"shrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using propensity-score method",0.1,0.917,0.00872416185085994
+"shrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using propensity-score method",0.2,0.892,0.00981509042240569
+"shrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using propensity-score method",0.3,0.846,0.0114142016803629
+"shrink","Scenario I: all means are 0 for T0,T1,...,T5","Imputation using propensity-score method",0.4,0.822,0.0120961150788177
+"shrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Complete data",0,0.935,0.0077958322198467
+"shrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using linear regression",0.1,0.94,0.00750999334220744
+"shrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using linear regression",0.2,0.944,0.00727076337120113
+"shrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using linear regression",0.3,0.964,0.00589101010014412
+"shrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using linear regression",0.4,0.959,0.00627048642451286
+"shrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using predictive mean matching method",0.1,0.915,0.00881901355027874
+"shrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using predictive mean matching method",0.2,0.897,0.00961202372032029
+"shrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using predictive mean matching method",0.3,0.875,0.0104582503316759
+"shrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using predictive mean matching method",0.4,0.818,0.0122014753206323
+"shrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using propensity-score method",0.1,0.912,0.00895857131466843
+"shrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using propensity-score method",0.2,0.883,0.010164201887015
+"shrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using propensity-score method",0.3,0.856,0.0111024321659716
+"shrink","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5","Imputation using propensity-score method",0.4,0.796,0.0127429980773757

@@ -1,0 +1,5 @@
+Original scripts, seeds, all condition levels and 40 imputations preserved.
+Replicates per setting: 1000
+Total attempted jobs: 60000
+Raw CSVs gzip compressed without changing their contents.
+Supplementary plots average diagnostics across treatment comparisons; CSVs retain individual comparisons.

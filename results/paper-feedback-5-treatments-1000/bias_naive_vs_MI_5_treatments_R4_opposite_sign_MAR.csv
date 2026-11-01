@@ -1,0 +1,181 @@
+"variance_ratio","mar_mechanism","gamma_control","gamma_treatment","scenario","mr","comparison","method","bias","empirical_SD","RMSE"
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T1vs.T0","Naive deletion",-0.0148428987989167,1.46383040775368,1.46317359696189
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T2vs.T0","Naive deletion",-0.0271689611502312,1.55054003549919,1.55000270313769
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T3vs.T0","Naive deletion",-0.0826092622750578,1.65536568366705,1.6565988051817
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T4vs.T0","Naive deletion",0.00247981049364457,1.66158591685162,1.66075676749506
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T5vs.T0","Naive deletion",0.00314935497091792,1.78589616022592,1.78500576706388
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T1vs.T0","Naive deletion",-0.582154768831306,1.54873073829986,1.65380546247983
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T2vs.T0","Naive deletion",-0.618143646565966,1.66678383097289,1.77693323978234
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T3vs.T0","Naive deletion",-0.687580228315213,1.71743661392621,1.84916346078476
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T4vs.T0","Naive deletion",-0.730739479379513,1.85206994872333,1.99015404393552
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T5vs.T0","Naive deletion",-0.725193658292351,1.9185472303845,2.05013377460308
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T1vs.T0","Naive deletion",-1.15839863632304,1.63314348964491,2.00159384010515
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T2vs.T0","Naive deletion",-1.27495202124424,1.75708752598151,2.17020088329644
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T3vs.T0","Naive deletion",-1.33744792181985,1.84081408419687,2.27463729848634
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T4vs.T0","Naive deletion",-1.49874925751918,1.95270348226603,2.46078994952404
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T5vs.T0","Naive deletion",-1.56374960066591,1.96367570446528,2.50947784680752
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T1vs.T0","Naive deletion",-1.69116384073186,1.72253774658771,2.4133388258448
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T2vs.T0","Naive deletion",-1.91828383539728,1.79012073442923,2.62319282263735
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T3vs.T0","Naive deletion",-2.03941696457885,1.9770932608084,2.83975534502254
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T4vs.T0","Naive deletion",-2.09431138549507,1.96257508623954,2.86949289031586
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T5vs.T0","Naive deletion",-2.14971937226346,2.11607438601503,3.01572319947082
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T1vs.T0","Naive deletion",-2.18585086698639,1.94476734849515,2.92511229398774
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T2vs.T0","Naive deletion",-2.37339130955649,1.98766677895774,3.09513403800649
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T3vs.T0","Naive deletion",-2.50192541668713,2.08258091075952,3.25460241769639
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T4vs.T0","Naive deletion",-2.67181862252017,2.16116502188481,3.43577915023829
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T5vs.T0","Naive deletion",-2.7161214862001,2.30193010837862,3.55962066369915
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T1vs.T0","Naive deletion",0.0112880803859875,1.50559688691536,1.50488623645182
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T2vs.T0","Naive deletion",-0.016767831233815,1.5688075402894,1.56811259211024
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T3vs.T0","Naive deletion",0.0211413489667001,1.67409372931688,1.67339002667032
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T4vs.T0","Naive deletion",0.0588485491046257,1.72830379941095,1.72844153524699
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T5vs.T0","Naive deletion",0.0710551260017362,1.80730782475091,1.80780088581779
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T1vs.T0","Naive deletion",-0.610523649482023,1.56773919821609,1.68169186059945
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T2vs.T0","Naive deletion",-0.618338494732175,1.65128131164566,1.76248283233843
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T3vs.T0","Naive deletion",-0.729848889373059,1.70952830359762,1.85802151093566
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T4vs.T0","Naive deletion",-0.691900129121481,1.87576253846724,1.99842247893049
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T5vs.T0","Naive deletion",-0.763774469678269,1.82546710449321,1.97796594004284
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T1vs.T0","Naive deletion",-1.16106488684843,1.66214306557089,2.02682720583856
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T2vs.T0","Naive deletion",-1.27301110200067,1.81890633939268,2.21938485104057
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T3vs.T0","Naive deletion",-1.38006707243988,1.88682169966246,2.3369041817378
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T4vs.T0","Naive deletion",-1.46251926108001,1.96034485409755,2.44500952637608
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T5vs.T0","Naive deletion",-1.51817680640864,1.97929629468879,2.49370347552866
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T1vs.T0","Naive deletion",-1.64729976962409,1.75864376328499,2.40901050003079
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T2vs.T0","Naive deletion",-1.80233978984128,1.82869958870794,2.5669489207228
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T3vs.T0","Naive deletion",-1.88515672308141,1.9132685585231,2.68528431474864
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T4vs.T0","Naive deletion",-2.04550179954044,2.08148365630439,2.91758791627159
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T5vs.T0","Naive deletion",-2.11638526918297,2.09330911698022,2.97601205034321
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T1vs.T0","Naive deletion",-2.19727528350245,1.94328095319868,2.93267509173664
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T2vs.T0","Naive deletion",-2.41285989948616,2.00201213445357,3.13463513482211
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T3vs.T0","Naive deletion",-2.55492166192567,2.15526053046991,3.34187484876742
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T4vs.T0","Naive deletion",-2.76714974784293,2.24916264523685,3.56521971259995
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T5vs.T0","Naive deletion",-2.79050827605479,2.29425029346779,3.61182187592332
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T1vs.T0","Complete data",-0.0148428987989167,1.46383040775368,1.46317359696189
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T2vs.T0","Complete data",-0.0271689611502312,1.55054003549919,1.55000270313769
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T3vs.T0","Complete data",-0.0826092622750578,1.65536568366705,1.6565988051817
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T4vs.T0","Complete data",0.00247981049364457,1.66158591685162,1.66075676749506
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0,"T5vs.T0","Complete data",0.00314935497091792,1.78589616022592,1.78500576706388
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T1vs.T0","Imputation using linear regression",0.0701847353134721,1.59546062485128,1.59620644276246
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T2vs.T0","Imputation using linear regression",0.0791183624740345,1.72118736509369,1.72214493440389
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T3vs.T0","Imputation using linear regression",0.0554751489656131,1.7564057284864,1.7564036022878
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T4vs.T0","Imputation using linear regression",0.0308642140176131,1.90258573225214,1.90188465365483
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T5vs.T0","Imputation using linear regression",0.0927991409984584,1.96780023206737,1.96900411277913
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T1vs.T0","Imputation using linear regression",0.0185705613452009,1.74904036352119,1.7482642582807
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T2vs.T0","Imputation using linear regression",0.00867626852236741,1.87639436185814,1.87547599905925
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T3vs.T0","Imputation using linear regression",0.00700367381093954,1.95051216315881,1.94954924338389
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T4vs.T0","Imputation using linear regression",-0.0363621846669738,2.05991565705345,2.05920651468801
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T5vs.T0","Imputation using linear regression",-0.0952199228541073,2.1087833481442,2.10987845050591
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T1vs.T0","Imputation using linear regression",0.0268474945002304,2.02796748151335,2.02713103718789
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T2vs.T0","Imputation using linear regression",-0.0726576795771121,2.10543317522145,2.10563414316668
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T3vs.T0","Imputation using linear regression",-0.0407110586440364,2.32122114582208,2.32041740436924
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T4vs.T0","Imputation using linear regression",0.0352986653803864,2.33099474623989,2.33009634270101
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T5vs.T0","Imputation using linear regression",0.0663600220087132,2.4556639344783,2.45533271192711
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T1vs.T0","Imputation using linear regression",0.0698503612528562,2.39456762352311,2.39438911258981
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T2vs.T0","Imputation using linear regression",0.0946039618977058,2.54805436039878,2.54853651182996
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T3vs.T0","Imputation using linear regression",0.116369918243632,2.58345250133361,2.58478133653357
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T4vs.T0","Imputation using linear regression",0.109198395397236,2.74533785350612,2.74613680276876
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T5vs.T0","Imputation using linear regression",0.0481136034624169,2.86069821181039,2.85967228605557
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T1vs.T0","Imputation using predictive mean matching method",-0.254776858415398,1.55601539839772,1.57596763409493
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T2vs.T0","Imputation using predictive mean matching method",-0.264295960988894,1.67719118321912,1.69705911794431
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T3vs.T0","Imputation using predictive mean matching method",-0.310475351462526,1.72203985058781,1.74895705196876
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T4vs.T0","Imputation using predictive mean matching method",-0.354906553325389,1.8631670216799,1.89575278475812
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T5vs.T0","Imputation using predictive mean matching method",-0.309396305202091,1.92918435733303,1.95288417628045
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T1vs.T0","Imputation using predictive mean matching method",-0.60637134086499,1.65736850654443,1.76403222735335
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T2vs.T0","Imputation using predictive mean matching method",-0.672094150535582,1.79023186139421,1.91139627880185
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T3vs.T0","Imputation using predictive mean matching method",-0.706338576159377,1.86650582765207,1.99481185699939
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T4vs.T0","Imputation using predictive mean matching method",-0.813376327402172,1.97643394392342,2.13634404849412
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T5vs.T0","Imputation using predictive mean matching method",-0.870032122230881,2.00593931957152,2.1855719285722
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T1vs.T0","Imputation using predictive mean matching method",-0.97493981186633,1.78475936093162,2.03290143568708
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T2vs.T0","Imputation using predictive mean matching method",-1.13812462787129,1.86872114945751,2.18722524771971
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T3vs.T0","Imputation using predictive mean matching method",-1.21879428446244,2.06680544128238,2.39851465603624
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T4vs.T0","Imputation using predictive mean matching method",-1.19054635674195,2.03778218491963,2.35919569016522
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T5vs.T0","Imputation using predictive mean matching method",-1.22561247784688,2.1944923947008,2.51258970374855
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T1vs.T0","Imputation using predictive mean matching method",-1.40189634481226,1.98320929581881,2.42785900610169
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T2vs.T0","Imputation using predictive mean matching method",-1.52383197110671,2.07901197498902,2.57682602779515
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T3vs.T0","Imputation using predictive mean matching method",-1.56565917895351,2.15461072535581,2.66251642156098
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T4vs.T0","Imputation using predictive mean matching method",-1.68213239176693,2.21003743259542,2.77649969772212
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T5vs.T0","Imputation using predictive mean matching method",-1.75274305646865,2.38435514504637,2.95830568573473
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T1vs.T0","Imputation using propensity-score method",-0.130305263259998,1.57837980721655,1.58296272686579
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T2vs.T0","Imputation using propensity-score method",-0.143365851554845,1.71020698451631,1.7153532841227
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T3vs.T0","Imputation using propensity-score method",-0.182405139402902,1.74851207753619,1.75713085047335
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T4vs.T0","Imputation using propensity-score method",-0.226503365788077,1.87849890367693,1.89117242674951
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.1,"T5vs.T0","Imputation using propensity-score method",-0.17362094652248,1.93747969671698,1.94427826729784
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T1vs.T0","Imputation using propensity-score method",-0.360668145327626,1.73039023378503,1.76673077232257
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T2vs.T0","Imputation using propensity-score method",-0.403156907726262,1.87292691698597,1.91491066981768
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T3vs.T0","Imputation using propensity-score method",-0.418168723060581,1.92715650970866,1.97106148094007
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T4vs.T0","Imputation using propensity-score method",-0.515194836014318,2.0451183531759,2.10802094118493
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.2,"T5vs.T0","Imputation using propensity-score method",-0.560384736658534,2.06798205863156,2.14156585191935
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T1vs.T0","Imputation using propensity-score method",-0.538564719028424,1.88356526511955,1.95814255008135
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T2vs.T0","Imputation using propensity-score method",-0.669994873513828,1.98153581769083,2.09080148343396
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T3vs.T0","Imputation using propensity-score method",-0.764856601746991,2.16857081930633,2.29847826184729
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T4vs.T0","Imputation using propensity-score method",-0.705642984077889,2.1579111418169,2.26932940236976
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.3,"T5vs.T0","Imputation using propensity-score method",-0.73455000062751,2.31823409850262,2.43071981716253
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T1vs.T0","Imputation using propensity-score method",-0.744873459304547,2.18021251381968,2.3029133177753
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T2vs.T0","Imputation using propensity-score method",-0.829843370401029,2.22453024225954,2.3732311904505
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T3vs.T0","Imputation using propensity-score method",-0.875488303998671,2.32119076187274,2.47972143534084
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T4vs.T0","Imputation using propensity-score method",-0.950486100337593,2.44034877864392,2.61777972453803
+4,"opposite_sign_MAR",-2,2,"Scenario I: all means are 0 for T0,T1,...,T5",0.4,"T5vs.T0","Imputation using propensity-score method",-0.985435359666711,2.61368346495098,2.79205887505702
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T1vs.T0","Complete data",0.0112880803859875,1.50559688691536,1.50488623645182
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T2vs.T0","Complete data",-0.016767831233815,1.5688075402894,1.56811259211024
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T3vs.T0","Complete data",0.0211413489667001,1.67409372931688,1.67339002667032
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T4vs.T0","Complete data",0.0588485491046257,1.72830379941095,1.72844153524699
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0,"T5vs.T0","Complete data",0.0710551260017362,1.80730782475091,1.80780088581779
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T1vs.T0","Imputation using linear regression",0.0023984646346656,1.61332209114236,1.61251701207485
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T2vs.T0","Imputation using linear regression",0.0626308854745079,1.71141299409488,1.71170328320529
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T3vs.T0","Imputation using linear regression",-0.0119469517400949,1.76854791504893,1.7677037918588
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T4vs.T0","Imputation using linear regression",0.0627192461111778,1.95985205514473,1.95987570060188
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T5vs.T0","Imputation using linear regression",0.0137316259649686,1.88270606239863,1.88181457450696
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T1vs.T0","Imputation using linear regression",-0.0174156583869789,1.8045501306134,1.80373170895231
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T2vs.T0","Imputation using linear regression",-0.0396065852514158,1.9496967228146,1.94912407897454
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T3vs.T0","Imputation using linear regression",-0.0686652335216426,2.01508762451644,2.01524997720864
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T4vs.T0","Imputation using linear regression",-0.0483507034705761,2.08114587681036,2.08066690821244
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T5vs.T0","Imputation using linear regression",-0.0686813744073334,2.10631799054948,2.10638458810958
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T1vs.T0","Imputation using linear regression",0.0315620213283048,2.02161672631863,2.02085215073578
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T2vs.T0","Imputation using linear regression",0.0319863999824878,2.14934509344557,2.14850826765263
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T3vs.T0","Imputation using linear regression",0.100508291702173,2.19584358485493,2.1970455700327
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T4vs.T0","Imputation using linear regression",0.0496522660198061,2.39975325133679,2.39906694345012
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T5vs.T0","Imputation using linear regression",0.0869537488666402,2.40237249950967,2.40274492762255
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T1vs.T0","Imputation using linear regression",-0.0235595243875581,2.4460552244073,2.44494540345562
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T2vs.T0","Imputation using linear regression",-0.0645534142961984,2.48547633358409,2.48507186123442
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T3vs.T0","Imputation using linear regression",-0.0361471915246191,2.69942474646768,2.69831682486238
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T4vs.T0","Imputation using linear regression",-0.103821728753878,2.71701416892611,2.71763919229771
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T5vs.T0","Imputation using linear regression",0.0880782438094729,3.24823294290238,3.24780295140229
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T1vs.T0","Imputation using predictive mean matching method",-0.295743349859447,1.58189108708132,1.60852142073459
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T2vs.T0","Imputation using predictive mean matching method",-0.26995793086182,1.67984050158566,1.70056447425318
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T3vs.T0","Imputation using predictive mean matching method",-0.359557664235778,1.7302386682304,1.76635609011924
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T4vs.T0","Imputation using predictive mean matching method",-0.305281188249365,1.91113247023999,1.93441761142359
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T5vs.T0","Imputation using predictive mean matching method",-0.361403188367178,1.85077578392354,1.88482304100873
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T1vs.T0","Imputation using predictive mean matching method",-0.636395163738193,1.69647358636483,1.81111661994298
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T2vs.T0","Imputation using predictive mean matching method",-0.698934449679781,1.85203580137421,1.97866519095865
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T3vs.T0","Imputation using predictive mean matching method",-0.769678795148467,1.93726162501767,2.08365905773079
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T4vs.T0","Imputation using predictive mean matching method",-0.796928142049216,1.99896845219907,2.15104008833036
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T5vs.T0","Imputation using predictive mean matching method",-0.858085283401676,2.00609833983796,2.18098979184728
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T1vs.T0","Imputation using predictive mean matching method",-0.931834385493981,1.82526758635572,2.04855692672378
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T2vs.T0","Imputation using predictive mean matching method",-1.03029142509568,1.91724723686738,2.17569794570249
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T3vs.T0","Imputation using predictive mean matching method",-1.05357824249245,1.97106792651245,2.23411073476868
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T4vs.T0","Imputation using predictive mean matching method",-1.16990914369067,2.14489405867725,2.44226480073662
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T5vs.T0","Imputation using predictive mean matching method",-1.18298388300904,2.15484117379447,2.45726433483555
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T1vs.T0","Imputation using predictive mean matching method",-1.42530589084996,2.02628157651575,2.47653146412304
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T2vs.T0","Imputation using predictive mean matching method",-1.56871248590402,2.08035179544387,2.60468704312916
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T3vs.T0","Imputation using predictive mean matching method",-1.6722257758581,2.23190988825201,2.78797047562775
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T4vs.T0","Imputation using predictive mean matching method",-1.80096818515682,2.30898921382264,2.92738555067603
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T5vs.T0","Imputation using predictive mean matching method",-1.77515802789291,2.38557846021685,2.97262167610569
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T1vs.T0","Imputation using propensity-score method",-0.22161340307389,1.58849672022531,1.6030941983422
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T2vs.T0","Imputation using propensity-score method",-0.188720440348946,1.69009754082129,1.69976135748468
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T3vs.T0","Imputation using propensity-score method",-0.290949717763377,1.75773741774674,1.78078716504354
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T4vs.T0","Imputation using propensity-score method",-0.233806299269733,1.9267147847684,1.93989252732245
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.1,"T5vs.T0","Imputation using propensity-score method",-0.31148419396969,1.88125748352098,1.90594149770588
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T1vs.T0","Imputation using propensity-score method",-0.379548104462291,1.77551669322421,1.81476274812737
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T2vs.T0","Imputation using propensity-score method",-0.429281947289543,1.9190672735581,1.96555828494349
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T3vs.T0","Imputation using propensity-score method",-0.513704771790477,2.02403742795623,2.087228635013
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T4vs.T0","Imputation using propensity-score method",-0.533499478452068,2.05694725632198,2.12401098791505
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.2,"T5vs.T0","Imputation using propensity-score method",-0.589059097471358,2.0811858079995,2.16194210222311
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T1vs.T0","Imputation using propensity-score method",-0.595213632897269,1.9290111186768,2.017831033776
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T2vs.T0","Imputation using propensity-score method",-0.676501969066629,2.01055232051855,2.12036157932085
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T3vs.T0","Imputation using propensity-score method",-0.676918269262292,2.08490587468413,2.19105089330375
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T4vs.T0","Imputation using propensity-score method",-0.808509493467976,2.26552532466981,2.4044042906199
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.3,"T5vs.T0","Imputation using propensity-score method",-0.819349120189048,2.25768794722444,2.40070629043414
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T1vs.T0","Imputation using propensity-score method",-0.87961911771624,2.17842048743294,2.34829727600647
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T2vs.T0","Imputation using propensity-score method",-1.01397758639449,2.27337460748357,2.48821510717131
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T3vs.T0","Imputation using propensity-score method",-1.11523278518428,2.41972437876491,2.66326025169714
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T4vs.T0","Imputation using propensity-score method",-1.27328588265143,2.46707505142991,2.77518103716459
+4,"opposite_sign_MAR",-2,2,"Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu5=3.5",0.4,"T5vs.T0","Imputation using propensity-score method",-1.25032745765575,2.55429534876334,2.84274850371137
