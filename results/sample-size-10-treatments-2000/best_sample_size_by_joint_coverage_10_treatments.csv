@@ -1,0 +1,72 @@
+"n_per_arm","variance_method","scenario","method","mr","Joint_many_coverage","Mean_many_CI_length","Successful_replications","abs_deviation_from_95"
+200,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Complete data",0,96.4285714285714,1.75308863323992,28,1.42857142857143
+250,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Complete data",0,96.4285714285714,1.5656570419013,28,1.42857142857143
+150,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using linear regression",0.1,96.4285714285714,2.10653702638875,28,1.42857142857143
+200,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using linear regression",0.1,96.4285714285714,1.83598092380083,28,1.42857142857143
+50,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using linear regression",0.2,96.4285714285714,3.8812188051372,28,1.42857142857143
+100,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using linear regression",0.2,96.4285714285714,2.7399691700893,28,1.42857142857143
+50,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using linear regression",0.3,93.1034482758621,4.21085550973693,29,1.89655172413794
+150,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using linear regression",0.3,93.1034482758621,2.41434847700329,29,1.89655172413794
+250,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using linear regression",0.4,96.4285714285714,1.99686064090636,28,1.42857142857143
+150,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using predictive mean matching method",0.1,96.4285714285714,2.0995319661648,28,1.42857142857143
+200,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using predictive mean matching method",0.1,96.4285714285714,1.82643135212508,28,1.42857142857143
+50,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using predictive mean matching method",0.2,96.4285714285714,3.73714371933102,28,1.42857142857143
+100,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using predictive mean matching method",0.2,96.4285714285714,2.68112329685003,28,1.42857142857143
+300,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using predictive mean matching method",0.3,92.8571428571429,1.65717782451539,28,2.14285714285714
+200,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using predictive mean matching method",0.4,96.4285714285714,2.18377724623416,28,1.42857142857143
+250,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using predictive mean matching method",0.4,96.4285714285714,1.94474205139737,28,1.42857142857143
+20,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using propensity-score method",0.1,93.1034482758621,5.73259218605559,29,1.89655172413794
+50,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using propensity-score method",0.1,93.1034482758621,3.62813995004008,29,1.89655172413794
+100,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using propensity-score method",0.2,96.4285714285714,2.70550963366628,28,1.42857142857143
+250,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using propensity-score method",0.3,96.4285714285714,1.8384746520366,28,1.42857142857143
+50,"Non-shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using propensity-score method",0.4,96.551724137931,4.34875461631061,29,1.55172413793103
+250,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Complete data",0,96.4285714285714,1.55508244929087,28,1.42857142857143
+250,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using linear regression",0.1,96.551724137931,1.63564996314522,29,1.55172413793103
+300,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using linear regression",0.2,96.4285714285714,1.57076451261336,28,1.42857142857143
+200,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using linear regression",0.3,96.4285714285714,2.0552243263099,28,1.42857142857143
+300,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using linear regression",0.3,96.4285714285714,1.68388270819717,28,1.42857142857143
+200,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using linear regression",0.4,96.4285714285714,2.23957448332534,28,1.42857142857143
+250,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using predictive mean matching method",0.1,96.551724137931,1.62229830822049,29,1.55172413793103
+250,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using predictive mean matching method",0.2,96.551724137931,1.70939676312298,29,1.55172413793103
+200,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using predictive mean matching method",0.3,96.4285714285714,2.00240929702176,28,1.42857142857143
+200,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using predictive mean matching method",0.4,96.4285714285714,2.17172240281545,28,1.42857142857143
+50,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using propensity-score method",0.1,96.4285714285714,3.59602246788353,28,1.42857142857143
+150,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using propensity-score method",0.1,96.4285714285714,2.09765875387927,28,1.42857142857143
+250,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using propensity-score method",0.2,96.551724137931,1.7112900846116,29,1.55172413793103
+200,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using propensity-score method",0.3,96.4285714285714,2.02752869127546,28,1.42857142857143
+300,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using propensity-score method",0.3,96.4285714285714,1.67050608777594,28,1.42857142857143
+200,"Non-shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using propensity-score method",0.4,96.4285714285714,2.19890821649013,28,1.42857142857143
+200,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Complete data",0,96.4285714285714,1.73390687759751,28,1.42857142857143
+250,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Complete data",0,96.4285714285714,1.54906807292103,28,1.42857142857143
+20,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using linear regression",0.1,93.1034482758621,5.91651231802566,29,1.89655172413794
+50,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using linear regression",0.1,93.1034482758621,3.66038647029585,29,1.89655172413794
+50,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using linear regression",0.2,96.4285714285714,3.84600785294427,28,1.42857142857143
+100,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using linear regression",0.2,96.4285714285714,2.72163031626753,28,1.42857142857143
+50,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using linear regression",0.3,93.1034482758621,4.19617003032213,29,1.89655172413794
+250,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using linear regression",0.4,96.4285714285714,1.99241263904703,28,1.42857142857143
+300,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using predictive mean matching method",0.1,96.551724137931,1.47634040578518,29,1.55172413793103
+100,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using predictive mean matching method",0.2,96.4285714285714,2.6633373894886,28,1.42857142857143
+300,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using predictive mean matching method",0.3,92.8571428571429,1.64844686080362,28,2.14285714285714
+200,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using predictive mean matching method",0.4,96.4285714285714,2.16911659803796,28,1.42857142857143
+250,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using predictive mean matching method",0.4,96.4285714285714,1.93931219518646,28,1.42857142857143
+20,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using propensity-score method",0.1,93.1034482758621,5.64698220973358,29,1.89655172413794
+50,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using propensity-score method",0.1,93.1034482758621,3.59835322684324,29,1.89655172413794
+100,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using propensity-score method",0.2,96.4285714285714,2.68828772231246,28,1.42857142857143
+250,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using propensity-score method",0.3,96.4285714285714,1.82752379651045,28,1.42857142857143
+50,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using propensity-score method",0.4,96.551724137931,4.33120470067918,29,1.55172413793103
+300,"Shrinkage","Scenario I: all means are 0 for T0,T1,...,T10","Imputation using propensity-score method",0.4,96.551724137931,1.82213798888505,29,1.55172413793103
+250,"Shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Complete data",0,96.4285714285714,1.54353460740237,28,1.42857142857143
+20,"Shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using linear regression",0.1,96.551724137931,5.96317254543718,29,1.55172413793103
+250,"Shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using linear regression",0.1,96.551724137931,1.62066765025181,29,1.55172413793103
+300,"Shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using linear regression",0.2,96.4285714285714,1.56064777368073,28,1.42857142857143
+200,"Shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using linear regression",0.3,96.4285714285714,2.04689342584528,28,1.42857142857143
+200,"Shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using linear regression",0.4,96.4285714285714,2.22860573612049,28,1.42857142857143
+250,"Shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using predictive mean matching method",0.1,96.551724137931,1.6073587940622,29,1.55172413793103
+250,"Shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using predictive mean matching method",0.2,96.551724137931,1.69915783852148,29,1.55172413793103
+200,"Shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using predictive mean matching method",0.3,96.4285714285714,1.99412762928594,28,1.42857142857143
+200,"Shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using predictive mean matching method",0.4,96.4285714285714,2.16015958483847,28,1.42857142857143
+50,"Shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using propensity-score method",0.1,96.4285714285714,3.56621348981707,28,1.42857142857143
+250,"Shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using propensity-score method",0.2,96.551724137931,1.70054110742258,29,1.55172413793103
+200,"Shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using propensity-score method",0.3,96.4285714285714,2.01915556003854,28,1.42857142857143
+300,"Shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using propensity-score method",0.3,96.4285714285714,1.66177519060702,28,1.42857142857143
+200,"Shrinkage","Scenario II: mu0=0, mu1=1.5, mu2=2.0, ..., mu10=6.0","Imputation using propensity-score method",0.4,96.4285714285714,2.18864072035701,28,1.42857142857143

@@ -11,3 +11,5 @@
 [Professor feedback: paper-feedback-5-treatments-1000](results/paper-feedback-5-treatments-1000/README.md).
 
 [Professor feedback: sample-size-5-treatments-2000](results/sample-size-5-treatments-2000/README.md).
+
+[Professor feedback: sample-size-10-treatments-2000](results/sample-size-10-treatments-2000/README.md).
