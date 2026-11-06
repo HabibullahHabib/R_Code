@@ -1,0 +1,7 @@
+Treatments: 5
+Replicates per setting: 28 or 29; see allocation_plan.csv
+Total jobs: 2000
+Successful: 2000
+Failed: 0
+Original uploaded source retained unchanged. Runner overrides n_sim only; all seeds and 40 imputations retained.
+Raw CSVs are losslessly gzip-compressed. Supplementary plots show cross-sample-size coverage and mean CI length.
