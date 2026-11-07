@@ -1,0 +1,1 @@
+PASS: original serial validation calculation exactly matches checkpointed worker output.
