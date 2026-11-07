@@ -1,5 +1,7 @@
-# Corrected application scripts
+# Corrected applications: 10,000 imputations per analysis
 
-Both uploaded sources are preserved unchanged. They perform single application analyses with 40 imputations, and contain no repeated-simulation count or validation loop. The user requested 10,000 simulations with both applications running simultaneously. Clarification is pending whether this means 10,000 repeated experiments or 10,000 imputations. Neither interpretation has been silently applied.
+The user explicitly confirmed **10,000 imputations for each application analysis**. No repeated-deletion simulation loop was added. Original uploaded sources are unchanged. The execution runner overrides m_imputations to 10000 and updates the corresponding plot subtitles.
 
-Both as-written 40-imputation analyses have been launched concurrently to verify data loading and export. These are not 10,000-experiment results. Helpers capture console output, warnings/errors, CSV tables, original HTML tables and plots, and standalone PDF tables, plots and report.
+Both applications run concurrently with two R workers each. ACTG175 retains the natural-missingness analysis and three MI methods. IBScovars retains the primary 30% MAR analysis and appendix 10%, 20%, 40% MAR analyses, each with three methods. This produces 30,000 completed datasets for ACTG175 and 120,000 for IBScovars; every individual method/analysis uses exactly 10,000. Shrinkage and non-shrinkage share the same imputations.
+
+Seeded imputation generation is checkpointed in immutable 100-imputation batches and verified against the original serial function for the first three imputations of each method/analysis. Pooling formulas, seeds, data, MAR mechanisms, PMM donors and propensity groups are retained. The earlier as-written 40-imputation analyses are separate. CSV/HTML tables, PNG/PDF plots, combined PDF report, console output, warnings/errors and completion metadata will be published under results/application-actg175-corrected and results/application-ibscovars-corrected after completion. Imputed-data checkpoints remain in cloud workspace and local backups.
