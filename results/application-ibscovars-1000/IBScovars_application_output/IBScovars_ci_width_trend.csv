@@ -1,0 +1,25 @@
+"missing_rate","method","variance_method","avg_width","mean_shrink_alpha"
+0.1,"PMM MI","Non-shrinkage",0.620107346761565,NA
+0.1,"PMM MI","Shrinkage",0.63545480002873,0.664162650946119
+0.1,"Propensity-score MI","Non-shrinkage",0.628331677400228,NA
+0.1,"Propensity-score MI","Shrinkage",0.643350653963401,0.733347243871535
+0.1,"Regression MI","Non-shrinkage",0.647318830940005,NA
+0.1,"Regression MI","Shrinkage",0.662402602870235,0.716771663617936
+0.2,"PMM MI","Non-shrinkage",0.671237889901033,NA
+0.2,"PMM MI","Shrinkage",0.687410788606977,0.835002630540376
+0.2,"Propensity-score MI","Non-shrinkage",0.687710557574858,NA
+0.2,"Propensity-score MI","Shrinkage",0.700765151104372,0.845844595067825
+0.2,"Regression MI","Non-shrinkage",0.702401078107042,NA
+0.2,"Regression MI","Shrinkage",0.716183497787307,0.831648413172576
+0.3,"PMM MI","Non-shrinkage",0.668501763263384,NA
+0.3,"PMM MI","Shrinkage",0.673085950562389,0.521456403210282
+0.3,"Propensity-score MI","Non-shrinkage",0.726507494871919,NA
+0.3,"Propensity-score MI","Shrinkage",0.73146007963311,0.484027878887326
+0.3,"Regression MI","Non-shrinkage",0.738750488655373,NA
+0.3,"Regression MI","Shrinkage",0.740463740242442,0.522745856324778
+0.4,"PMM MI","Non-shrinkage",0.701066110650631,NA
+0.4,"PMM MI","Shrinkage",0.709680650853583,0.873903190931608
+0.4,"Propensity-score MI","Non-shrinkage",0.782768774108675,NA
+0.4,"Propensity-score MI","Shrinkage",0.790320470158975,0.845576053518021
+0.4,"Regression MI","Non-shrinkage",0.767831439825337,NA
+0.4,"Regression MI","Shrinkage",0.776932675632631,0.870410038678932
