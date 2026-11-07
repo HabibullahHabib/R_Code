@@ -1,0 +1,5 @@
+Total repeated-deletion experiments: 1000
+Imputations: 40
+All three imputation methods evaluated in each experiment; both variance versions share imputations.
+Original primary analysis retained. Original source and seeds unchanged; only validation_reps overridden.
+Recovery rates describe coverage of fixed complete-sample benchmark contrasts, not population-parameter coverage.
