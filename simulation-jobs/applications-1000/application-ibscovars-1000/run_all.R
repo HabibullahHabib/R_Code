@@ -8,7 +8,7 @@ out<-file.path(root,mode);dir.create(out,recursive=TRUE,showWarnings=FALSE);setw
  folder<-file.path(.h$out,'checkpoints',tag);dir.create(folder,recursive=TRUE,showWarnings=FALSE)
  spec<-list(source_md5=unname(tools::md5sum(file.path(.h$root,'original_script.R'))),reps=validation_reps,m=m_imputations,seed=master_seed,tag=tag)
  meta<-file.path(folder,'setting.rds');if(file.exists(meta))stopifnot(identical(readRDS(meta),spec))else saveRDS(spec,meta)
- cl<-parallel::makeCluster(4,port=as.integer(Sys.getenv('SIM_CLUSTER_PORT')),outfile=file.path(.h$out,'worker_console.log'));on.exit(parallel::stopCluster(cl))
+ cl<-parallel::makeCluster(as.integer(Sys.getenv('SIM_WORKERS','2')),port=as.integer(Sys.getenv('SIM_CLUSTER_PORT')),outfile=file.path(.h$out,'worker_console.log'));on.exit(parallel::stopCluster(cl))
  parallel::clusterEvalQ(cl,{library(mvtnorm);library(dplyr);library(tidyr);library(tibble);library(ggplot2)})
  vars<-setdiff(ls(.GlobalEnv,all.names=TRUE),c('.h'))
  parallel::clusterExport(cl,vars,envir=.GlobalEnv)
