@@ -1,3 +1,4 @@
+grDevices::graphics.off()
 library(grid)
 files<-list.files(pattern='\\.csv$',recursive=TRUE,full.names=TRUE)
 tables<-files[!grepl('validation_raw|progress|warnings|errors',files)]
@@ -17,5 +18,5 @@ stopifnot(length(plots)>0,system2(Sys.which('pdfunite'),c(shQuote(plots),'simula
 stopifnot(system2(Sys.which('pdfunite'),c('main_tables.pdf','simulation_plots.pdf','simulation_report.pdf'))==0L)
 for(name in c('warnings.csv','errors.csv'))if(!file.exists(name))writeLines(if(name=='warnings.csv')'stage,rep,warning' else 'time,error',name)
 writeLines(c('As-written corrected application analysis, not a 10000-experiment run.',paste('Imputations:',m_imputations),'Original source and scientific calculations preserved.'),'run_summary.txt')
-write.csv(primary_long,'primary_results_long.csv',row.names=FALSE)
+if(exists('primary_long'))write.csv(primary_long,'primary_results_long.csv',row.names=FALSE)
 writeLines(capture.output(sessionInfo()),'sessionInfo.txt')
