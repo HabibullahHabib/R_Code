@@ -1,0 +1,1 @@
+All original 40-imputation primary estimates and Sh/NS widths reproduced within 1e-9. Common-variance baseline added separately.

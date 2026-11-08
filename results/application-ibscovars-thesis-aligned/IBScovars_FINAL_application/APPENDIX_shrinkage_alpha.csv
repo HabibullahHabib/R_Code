@@ -1,0 +1,17 @@
+"method","contrast","shrink_alpha"
+"Complete data","1 vs 0",0.973897792132035
+"Complete data","2 vs 0",0.973897792132035
+"Complete data","3 vs 0",0.973897792132035
+"Complete data","4 vs 0",0.973897792132035
+"Regression MI","1 vs 0",0.71419352850801
+"Regression MI","2 vs 0",0.71419352850801
+"Regression MI","3 vs 0",0.71419352850801
+"Regression MI","4 vs 0",0.71419352850801
+"PMM MI","1 vs 0",0.751494985883318
+"PMM MI","2 vs 0",0.751494985883318
+"PMM MI","3 vs 0",0.751494985883318
+"PMM MI","4 vs 0",0.751494985883318
+"Propensity MI","1 vs 0",0.773803739861533
+"Propensity MI","2 vs 0",0.773803739861533
+"Propensity MI","3 vs 0",0.773803739861533
+"Propensity MI","4 vs 0",0.773803739861533
