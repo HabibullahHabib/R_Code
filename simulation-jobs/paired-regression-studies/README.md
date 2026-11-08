@@ -1,0 +1,8 @@
+# User-confirmed paired regression-only studies
+
+Two separate studies, each with **10,000 repetitions and 40 regression imputations per repetition**, compare only the proposed unequal-variance shrinkage and non-shrinkage procedures. No equal-variance comparison, PMM, propensity-method comparison or cross-dataset analysis is performed. Both procedures share identical data, imputations and point estimates.
+
+- ACTG175: all 2,139 original patients and their natural missing outcomes are retained; no additional outcomes are removed. Repetitions vary the MI draws only. Results assess interval widths and imputation variability; unknown missing outcomes preclude benchmark recovery.
+- IBScovars: all 369 complete observations define fixed benchmark contrasts. New 30% expected MAR missingness is imposed independently each repetition, using gamma=log(2) and empirical covariate calibration as in the corrected application code. Results assess joint fixed-sample benchmark recovery and interval widths; this is not population-parameter coverage.
+
+Each study runs with two workers and atomic 10-repetition checkpoints. Independent two-repetition trials passed serial/parallel exact equality checks and CSV/PDF/PNG export checks. Trial graph numbers are not final results. The full studies were then started concurrently; this folder contains source and protocol, not completed results. Full result folders will be results/paired-actg175-natural-regression and results/paired-ibscovars-mar30-regression. The final plain-language graph is separate for each dataset. All previously completed work is preserved and superseded for the current request.
