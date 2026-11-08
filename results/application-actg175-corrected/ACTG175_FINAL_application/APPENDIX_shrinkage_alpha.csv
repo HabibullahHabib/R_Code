@@ -1,0 +1,13 @@
+"method","contrast","shrink_alpha"
+"Complete-case","1 vs 0",1
+"Complete-case","2 vs 0",1
+"Complete-case","3 vs 0",1
+"Regression MI","1 vs 0",0.692625348335929
+"Regression MI","2 vs 0",0.692625348335929
+"Regression MI","3 vs 0",0.692625348335929
+"PMM MI","1 vs 0",0.772334062319201
+"PMM MI","2 vs 0",0.772334062319201
+"PMM MI","3 vs 0",0.772334062319201
+"Propensity MI","1 vs 0",0.641145315160419
+"Propensity MI","2 vs 0",0.641145315160419
+"Propensity MI","3 vs 0",0.641145315160419

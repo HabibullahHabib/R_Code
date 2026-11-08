@@ -1,0 +1,3 @@
+Corrected application: 10000 imputations per imputation method in each analysis. No repeated-deletion simulation loop added.
+Imputations: 10000
+Original source and scientific calculations preserved.
