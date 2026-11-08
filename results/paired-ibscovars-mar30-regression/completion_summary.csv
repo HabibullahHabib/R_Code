@@ -1,0 +1,2 @@
+"dataset","attempted","successful","failed","imputations_per_repetition","imputation_method","missing_design"
+"IBScovars",10000,10000,0,40,"Regression","New Bernoulli 30% expected covariate-driven MAR pattern per repetition; gamma=log(2), empirical intercept calibration"

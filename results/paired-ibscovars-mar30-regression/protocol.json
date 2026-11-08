@@ -1,0 +1,14 @@
+{
+  "dataset": "IBScovars",
+  "input_hash": "4a7535a897a755934461d9647516a275",
+  "scientific_source": "85fc77c20370d0d4bbff4035c3c10299",
+  "experiments": 10000,
+  "imputations": 40,
+  "method": "regression",
+  "master_seed": 20261108,
+  "dataset_offset": 20000000,
+  "missing_design": "New Bernoulli 30% expected covariate-driven MAR pattern per repetition; gamma=log(2), empirical intercept calibration",
+  "mar_gamma": 0.6931,
+  "mar_intercept": -0.9513,
+  "comparison": ["Shrinkage", "Non-shrinkage"]
+}

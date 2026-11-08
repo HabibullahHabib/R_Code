@@ -25,3 +25,5 @@
 [Professor feedback: application-ibscovars-thesis-aligned](results/application-ibscovars-thesis-aligned/README.md).
 
 [Paired regression-only study: paired-actg175-natural-regression](results/paired-actg175-natural-regression/README.md).
+
+[Paired regression-only study: paired-ibscovars-mar30-regression](results/paired-ibscovars-mar30-regression/README.md).
