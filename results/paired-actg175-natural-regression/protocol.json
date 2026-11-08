@@ -1,0 +1,14 @@
+{
+  "dataset": "ACTG175",
+  "input_hash": "1f27f4317bd94d49e653f44ad4b6de84",
+  "scientific_source": "4b071660f7e5f28de906c318ec0aed00",
+  "experiments": 10000,
+  "imputations": 40,
+  "method": "regression",
+  "master_seed": 20261108,
+  "dataset_offset": 10000000,
+  "missing_design": "Natural missingness retained exactly; repetitions change imputation draws only",
+  "mar_gamma": null,
+  "mar_intercept": null,
+  "comparison": ["Shrinkage", "Non-shrinkage"]
+}

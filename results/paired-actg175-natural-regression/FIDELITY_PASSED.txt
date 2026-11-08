@@ -1,0 +1,1 @@
+Original scientific functions: serial and parallel repetition 1 match exactly. Shrinkage/non-shrinkage share all 40 imputations and point estimates.

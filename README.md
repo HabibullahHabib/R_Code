@@ -23,3 +23,5 @@
 [Professor feedback: application-actg175-thesis-aligned](results/application-actg175-thesis-aligned/README.md).
 
 [Professor feedback: application-ibscovars-thesis-aligned](results/application-ibscovars-thesis-aligned/README.md).
+
+[Paired regression-only study: paired-actg175-natural-regression](results/paired-actg175-natural-regression/README.md).

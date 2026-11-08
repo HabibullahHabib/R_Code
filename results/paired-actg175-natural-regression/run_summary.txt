@@ -1,0 +1,11 @@
+Dataset: ACTG175
+Attempted repetitions: 10000
+Successful: 10000
+Failed: 0
+Regression imputation only; 40 imputations per repetition. Only shrinkage and non-shrinkage are compared.
+Natural missingness retained exactly; repetitions change imputation draws only
+ACTG175 retains its original natural missingness and patients: its repetitions measure variation across repeated MI analyses, not new patient samples or new missingness patterns.
+IBScovars repeats empirical covariate-driven MAR: gamma=log(2), same in all arms, calibrated to 30% expected missingness, original group assignments/covariate/outcomes retained before masking.
+Both procedures share each repetition's data, 40 imputations and point estimates.
+Known complete-data benchmark recovery is only available for IBScovars; it is not population-parameter coverage.
+No equal-variance, PMM, propensity, or cross-dataset comparisons are performed.

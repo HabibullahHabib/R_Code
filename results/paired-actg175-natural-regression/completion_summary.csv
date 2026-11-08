@@ -1,0 +1,2 @@
+"dataset","attempted","successful","failed","imputations_per_repetition","imputation_method","missing_design"
+"ACTG175",10000,10000,0,40,"Regression","Natural missingness retained exactly; repetitions change imputation draws only"

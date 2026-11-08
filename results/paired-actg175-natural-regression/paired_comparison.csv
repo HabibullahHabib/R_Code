@@ -1,0 +1,4 @@
+"metric","estimate","monte_carlo_se","mc95_lower","mc95_upper"
+"Width reduction: non-shrinkage minus shrinkage",-0.323914274876614,0.000218427133884848,-0.324342392059028,-0.3234861576942
+"Mean percentage width reduction",-0.544191108332853,0.000452342701256785,-0.545077700027316,-0.543304516638389
+"Repetitions in which shrinkage is narrower (%)",0,0,0,0

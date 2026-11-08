@@ -1,0 +1,3 @@
+"procedure","successful_repetitions","mean_interval_width"
+"Non-shrinkage",10000,59.6109580254224
+"Shrinkage",10000,59.934872300299
