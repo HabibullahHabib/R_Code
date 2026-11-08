@@ -19,3 +19,5 @@
 [Professor feedback: application-ibscovars-1000](results/application-ibscovars-1000/README.md).
 
 [Professor feedback: application-actg175-corrected](results/application-actg175-corrected/README.md).
+
+[Professor feedback: application-actg175-thesis-aligned](results/application-actg175-thesis-aligned/README.md).

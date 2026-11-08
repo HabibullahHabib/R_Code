@@ -1,0 +1,7 @@
+Primary procedure follows thesis section 4.1: regression MI; common-variance versus unequal-variance shrinkage intervals.
+User requested 40 imputations; both uploaded documents use 20 in their real-data applications.
+Reference article section 6 uses propensity MI; that method is reported separately as a reference-method adaptation.
+Original corrected-script non-shrinkage means unshrunk unequal variance and is retained only as a supplementary comparator.
+Equal-variance intervals use the per-imputation degrees-of-freedom-weighted pooled arm variance, Rubin pooling and the same multivariate-t trace-based df construction.
+ACTG175 and IBScovars are different datasets from the original 100-patient dose-response application. Covariates, natural missingness/MAR setup and unequal arm sizes follow the corrected user scripts; these are adaptations, not exact paper replications.
+No repeated-deletion simulations were added. The 10000-imputation runs are preserved separately and superseded by this user-requested 40-imputation analysis.
