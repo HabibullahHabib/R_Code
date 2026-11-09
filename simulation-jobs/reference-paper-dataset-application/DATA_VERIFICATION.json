@@ -1,0 +1,9 @@
+{
+  "status": "verified",
+  "source": "Jiang, Zhou & Liang (2023), published Table 5 original rows",
+  "patients": 100,
+  "arms": 5,
+  "per_arm": 20,
+  "missing": 32,
+  "result": "All 100 responses and missing-value locations exactly match the published table."
+}
