@@ -1,0 +1,14 @@
+{
+  "requested_imputation_method": "regression",
+  "imputations": 40,
+  "only_analysis_parameter_change": "imputation_method: propensity -> regression",
+  "original_script_sha256": "0003972eeeb2962c18599e1428462c01ae4d789eac52c9e34548db5b7aa2e515",
+  "executed_script_sha256": "9647a8864bc370bc5c5d2c4e0ab211871109b5bd29a95c5e7162e9d47ea1807d",
+  "figure_highlight": "Two pooled estimates and intervals, using distinct colors and symbols; no selected individual imputation",
+  "reference": "Jiang, Zhou and Liang (2023), Figure 1, p.13; pooled row combines imputations using Rubin rules",
+  "figure_display_labels": [
+    "Proposed with shrinkage",
+    "Proposed without shrinkage"
+  ],
+  "pooled_meaning": "Rubin combination of imputations, not equal-variance pooling"
+}
