@@ -1,0 +1,1 @@
+Completed as supplied: 40 propensity imputations; target 30% MAR; achieved 31.9783197831978 percent.

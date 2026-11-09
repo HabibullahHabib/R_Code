@@ -1,0 +1,18 @@
+{
+  "dataset": "DoseFinding::IBScovars",
+  "patients": 369,
+  "target_missing_pct": 30,
+  "realized_missing": 118,
+  "realized_missing_pct": 31.978319783197833,
+  "imputations": 40,
+  "imputation_method": "propensity",
+  "repeated_simulation_experiments": 0,
+  "table_methods": [
+    "Proposed method with shrinkage",
+    "Proposed method without shrinkage",
+    "Dunnett's procedure with naive case deletion"
+  ],
+  "individual_imputation_intervals": 160,
+  "forest_plot_rows": 172,
+  "original_script_sha256": "0003972eeeb2962c18599e1428462c01ae4d789eac52c9e34548db5b7aa2e515"
+}

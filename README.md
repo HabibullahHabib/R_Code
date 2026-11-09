@@ -29,3 +29,5 @@
 [Paired regression-only study: paired-ibscovars-mar30-regression](results/paired-ibscovars-mar30-regression/README.md).
 
 [Reference-paper dataset application, 40 ABB imputations](results/reference-paper-dataset-application/README.md).
+
+[IBScovars reference-style application, 40 propensity imputations](results/ibscovars-reference-style-application/README.md).
