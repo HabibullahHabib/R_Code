@@ -31,3 +31,5 @@
 [Reference-paper dataset application, 40 ABB imputations](results/reference-paper-dataset-application/README.md).
 
 [IBScovars reference-style application, 40 propensity imputations](results/ibscovars-reference-style-application/README.md).
+
+[Corrected IBScovars application, 40 regression imputations](results/ibscovars-reference-style-regression/README.md).

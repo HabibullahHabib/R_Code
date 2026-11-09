@@ -1,0 +1,5 @@
+Reference: Jiang, Zhou and Liang (2023), Figure 1, p.13; adjacent application paragraph describes pooled point/interval estimates across imputed datasets.
+The reference row Pooled is the Rubin-combined MI result, not a chosen individual imputation and not an equal-variance covariance assumption.
+This figure labels the final procedures directly: blue square = proposed without shrinkage, orange diamond = proposed with shrinkage.
+Grey numbered rows = individual regression imputations; black triangle = naive case deletion; dashed vertical line = zero difference.
+Our y-axis and legend use proposed with/without shrinkage instead of Pooled. Colour indicates procedure, not significance or superiority.

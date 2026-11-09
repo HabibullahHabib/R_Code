@@ -1,0 +1,5 @@
+"method","contrast","estimate","lower","upper","width","significant","shrink_alpha"
+"Dunnett's procedure with naive case deletion","1 vs. 0",0.292212696611429,-0.0665535179928169,0.650978911215674,0.717532429208491,FALSE,NA
+"Dunnett's procedure with naive case deletion","2 vs. 0",0.325614911660317,-0.0102870644872578,0.661516887807893,0.67180395229515,FALSE,NA
+"Dunnett's procedure with naive case deletion","3 vs. 0",0.20818695735989,-0.137178889546342,0.553552804266123,0.690731693812465,FALSE,NA
+"Dunnett's procedure with naive case deletion","4 vs. 0",0.304553184480519,-0.0698816624281861,0.678988031389225,0.748869693817411,FALSE,NA

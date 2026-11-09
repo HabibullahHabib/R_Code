@@ -1,3 +1,5 @@
+**Superseded for the user-requested regression analysis.** Use [the corrected regression result](../ibscovars-reference-style-regression/README.md). This earlier propensity result is retained for audit.
+
 # IBScovars reference-style application
 
 Runs the uploaded IBScovars_ReferenceStyle_Application.R as supplied: one application analysis with **40 propensity-score imputations**, target 30% empirical covariate-driven MAR (gamma=log(2), standardized gender covariate). The realized missingness is **118/369 = 31.98%**. No repeated-simulation loop or imputation-method comparison was added.

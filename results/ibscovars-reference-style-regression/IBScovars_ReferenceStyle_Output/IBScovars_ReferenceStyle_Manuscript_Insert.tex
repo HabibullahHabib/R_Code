@@ -1,0 +1,53 @@
+% Add this line in your preamble if needed:
+% \usepackage{graphicx}
+
+% Table
+\begin{table}[htbp]
+\centering
+\caption{Simultaneous statistical inferences of mean differences in IBScovars dose response based on regression imputation.}
+\label{tab:ibs_application}
+\begin{tabular}{llc}
+\hline
+Methods & Dose Comparison & Point Estimate of $(\mu_i-\mu_0)$ \\
+ &  & 95\% Confidence Interval \\
+\hline
+Proposed method with shrinkage & 1 vs. 0 & 0.260 \\
+ &  & (-0.102, 0.622) \\
+ & 2 vs. 0 & 0.327 \\
+ &  & (-0.040, 0.694) \\
+ & 3 vs. 0 & 0.184 \\
+ &  & (-0.179, 0.547) \\
+ & 4 vs. 0 & 0.302 \\
+ &  & (-0.078, 0.681) \\
+Proposed method without shrinkage & 1 vs. 0 & 0.260 \\
+ &  & (-0.100, 0.621) \\
+ & 2 vs. 0 & 0.327 \\
+ &  & (-0.030, 0.684) \\
+ & 3 vs. 0 & 0.184 \\
+ &  & (-0.174, 0.543) \\
+ & 4 vs. 0 & 0.302 \\
+ &  & (-0.085, 0.688) \\
+Dunnett's procedure with naive case deletion & 1 vs. 0 & 0.292 \\
+ &  & (-0.067, 0.651) \\
+ & 2 vs. 0 & 0.326 \\
+ &  & (-0.010, 0.662) \\
+ & 3 vs. 0 & 0.208 \\
+ &  & (-0.137, 0.554) \\
+ & 4 vs. 0 & 0.305 \\
+ &  & (-0.070, 0.679) \\
+\hline
+\end{tabular}
+\end{table}
+
+% Figure
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{IBScovars_ReferenceStyle_ForestPlot.pdf}
+\caption{Forest plot showing the point estimates and 95\% confidence intervals 
+for each imputed dataset, the pooled results, and the naive case-deletion result 
+for the IBScovars application. The primary missing-data setting is 30\% MAR and the 
+imputation method shown is 
+regression imputation
+.}
+\label{fig:ibs_application_forest}
+\end{figure}
