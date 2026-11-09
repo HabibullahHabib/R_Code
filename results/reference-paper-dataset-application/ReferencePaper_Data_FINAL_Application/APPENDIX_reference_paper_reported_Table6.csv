@@ -1,0 +1,9 @@
+"Method","Comparison","Estimate","Lower","Upper"
+"Reference paper proposed method","0.05 vs 0",0.374,-0.181,0.93
+"Reference paper proposed method","0.20 vs 0",0.712,0.222,1.203
+"Reference paper proposed method","0.60 vs 0",0.951,0.37,1.532
+"Reference paper proposed method","1.00 vs 0",1.06,0.538,1.582
+"Reference paper naive case deletion","0.05 vs 0",0.362,-0.27,0.995
+"Reference paper naive case deletion","0.20 vs 0",0.722,0.125,1.319
+"Reference paper naive case deletion","0.60 vs 0",0.929,0.287,1.572
+"Reference paper naive case deletion","1.00 vs 0",1.05,0.396,1.704

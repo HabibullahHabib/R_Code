@@ -1,0 +1,15 @@
+{
+  "dataset": "Jiang, Zhou and Liang (2023), Table 5 original incomplete data",
+  "patients": 100,
+  "arms": 5,
+  "patients_per_arm": 20,
+  "original_missing_responses": 32,
+  "imputations": 40,
+  "imputation_method": "Treatment-restricted approximate Bayesian bootstrap",
+  "repeated_simulation_experiments": 0,
+  "comparison": [
+    "Without shrinkage",
+    "With shrinkage"
+  ],
+  "original_script_sha256": "5ccd95d359dc3e0ea8904969c4014223fac8d1890aa731b7c546db4304991788"
+}
