@@ -1,6 +1,8 @@
 from pathlib import Path
 import os,subprocess,shutil,csv
 ROOT=Path(__file__).resolve().parent;FULL=ROOT/'full'
+env_repair=os.environ.copy();env_repair.update(PATH='/workspace/.r-runtime/bin:'+env_repair['PATH'],R_LIBS_SITE='/workspace/.r-runtime/usr/lib/R/site-library',R_LIBS_USER='/workspace/.r-runtime/library',LD_LIBRARY_PATH='/workspace/.r-runtime/usr/lib/x86_64-linux-gnu')
+subprocess.run(['/workspace/.r-runtime/bin/Rscript','--vanilla',str(ROOT/'repair_validation_summary.R'),str(ROOT)],env=env_repair,check=True)
 subprocess.run(['python',str(ROOT/'make_report.py')],check=True)
 env=os.environ.copy();env.update(PATH='/workspace/.r-runtime/bin:'+env['PATH'],R_LIBS_SITE='/workspace/.r-runtime/usr/lib/R/site-library',R_LIBS_USER='/workspace/.r-runtime/library',LD_LIBRARY_PATH='/workspace/.r-runtime/usr/lib/x86_64-linux-gnu',XDG_CACHE_HOME='/workspace/.r-runtime/cache')
 p=subprocess.run(['/workspace/.r-runtime/bin/Rscript','--vanilla',str(ROOT/'render_highlighted_plot.R'),str(ROOT)],env=env,capture_output=True,text=True);assert p.returncode==0,p.stderr

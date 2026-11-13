@@ -9,5 +9,6 @@
   "graph_labels": [
     "Proposed with shrinkage",
     "Proposed without shrinkage"
-  ]
+  ],
+  "validation_export_repair": "Recomputed summaries from unchanged raw results; removed duplicated summary rows/Cartesian join and repaired NA standard deviations."
 }

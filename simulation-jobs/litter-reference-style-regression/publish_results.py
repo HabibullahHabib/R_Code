@@ -14,13 +14,13 @@ try:
  files=[p for p in FULL.rglob('*') if p.is_file() and p.suffix in ('.csv','.pdf','.png','.html','.txt','.log','.json','.rds','.tex')]
  with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED,compresslevel=6) as z:
   for p in files:z.write(p,str(p.relative_to(FULL)))
-  for name in ['original_script.R','executed_script.R','run_all.R','run.sh','make_report.py','render_highlighted_plot.R','finish_outputs.py','README.md']:z.write(ROOT/name,name)
+  for name in ['original_script.R','executed_script.R','run_all.R','run.sh','make_report.py','render_highlighted_plot.R','finish_outputs.py','repair_validation_summary.R','README.md']:z.write(ROOT/name,name)
   z.write(ROOT/'full_console.log','console_output.log')
  with zipfile.ZipFile(archive) as z:assert z.testzip() is None
  assert archive.stat().st_size<95*1024**2
  for p in files:
   target=dest/p.relative_to(FULL);target.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(p,target)
- for name in ['original_script.R','executed_script.R','run_all.R','run.sh','make_report.py','render_highlighted_plot.R','finish_outputs.py']:shutil.copy2(ROOT/name,dest/name)
+ for name in ['original_script.R','executed_script.R','run_all.R','run.sh','make_report.py','render_highlighted_plot.R','finish_outputs.py','repair_validation_summary.R']:shutil.copy2(ROOT/name,dest/name)
  links=f'\n[Full PDF report](simulation_report.pdf) · [Primary table PDF](main_tables.pdf) · [Forest plot](comparison_graph.png) · [Results ZIP]({archive.name})\n\n[Full-precision primary results](computed_pooled_results_full_precision.csv) · [Original output tables](Litter_Application_Final).\n'
  (dest/'README.md').write_text((ROOT/'README.md').read_text()+links)
  checks={str(p.relative_to(dest)):hashlib.file_digest(p.open('rb'),'sha256').hexdigest() for p in dest.rglob('*') if p.is_file()};(dest/'SHA256SUMS.json').write_text(json.dumps(checks,indent=2)+'\n')
