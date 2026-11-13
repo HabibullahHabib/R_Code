@@ -1,0 +1,16 @@
+{
+  "dataset": "multcomp::litter",
+  "observations": 74,
+  "target_missing_pct": 30,
+  "realized_missing": 26,
+  "realized_missing_pct": 35.13513513513514,
+  "imputations": 40,
+  "imputation_method": "REG",
+  "validation_requested": 500,
+  "validation_successful": {
+    "Non-shrinkage": 500,
+    "Shrinkage": 500
+  },
+  "original_script_sha256": "c3bfd0c5169784d0877692f9b7d12053c587fba90ee26d417c121a9dd88aacbf",
+  "executed_script_sha256": "e259d581aca7953c4c6b5bf76e7789d057720f70c442a53421d4450d4cb8543d"
+}

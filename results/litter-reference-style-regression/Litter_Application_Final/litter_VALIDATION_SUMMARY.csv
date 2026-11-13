@@ -1,0 +1,3 @@
+"MI","version","successful_replicates","joint_benchmark_recovery_pct","mean_interval_length","sd_interval_length","mean_realized_missing_pct","mean_alpha"
+"REG","Non-shrinkage",500,100,8.25492468006168,0.866271497926151,30.1621621621622,NA
+"REG","Shrinkage",500,100,8.51977919113815,0.871214156040874,30.1621621621622,0.467609553652931

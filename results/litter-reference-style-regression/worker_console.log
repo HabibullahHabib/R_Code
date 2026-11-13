@@ -1,0 +1,108 @@
+starting worker pid=863634 on localhost:44363 at 04:03:37.373
+starting worker pid=863635 on localhost:44363 at 04:03:37.386
+starting worker pid=863633 on localhost:44363 at 04:03:37.390
+starting worker pid=863632 on localhost:44363 at 04:03:37.392
+Loading required package: mvtnorm
+Loading required package: mvtnorm
+Loading required package: mvtnorm
+Loading required package: mvtnorm
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: TH.data
+Loading required package: MASS
+
+Attaching package: ‘TH.data’
+
+The following object is masked from ‘package:MASS’:
+
+    geyser
+
+Loading required package: TH.data
+Loading required package: MASS
+
+Attaching package: ‘TH.data’
+
+The following object is masked from ‘package:MASS’:
+
+    geyser
+
+Loading required package: TH.data
+Loading required package: MASS
+Loading required package: TH.data
+
+Attaching package: ‘TH.data’
+
+Loading required package: MASS
+The following object is masked from ‘package:MASS’:
+
+    geyser
+
+
+Attaching package: ‘TH.data’
+
+The following object is masked from ‘package:MASS’:
+
+    geyser
+
+
+Attaching package: ‘dplyr’
+
+The following object is masked from ‘package:MASS’:
+
+    select
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following object is masked from ‘package:MASS’:
+
+    select
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following object is masked from ‘package:MASS’:
+
+    select
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following object is masked from ‘package:MASS’:
+
+    select
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+

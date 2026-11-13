@@ -1,0 +1,14 @@
+args<-commandArgs(TRUE);root<-args[1];setwd(file.path(root,'full'));suppressPackageStartupMessages(library(ggplot2))
+d<-read.csv('forest_plot_data.csv');d$kind<-ifelse(d$display=='Pooled (shrinkage)','Proposed with shrinkage',ifelse(d$display=='Pooled (non-shrinkage)','Proposed without shrinkage',ifelse(d$display=='Case deletion','Case deletion',ifelse(d$display=='Complete-data benchmark','Complete-data benchmark','Individual imputation'))))
+lev<-c('Individual imputation','Proposed without shrinkage','Proposed with shrinkage','Case deletion','Complete-data benchmark');d$kind<-factor(d$kind,levels=lev)
+d$display<-factor(d$display,levels=c(as.character(1:40),'Pooled (non-shrinkage)','Pooled (shrinkage)','Case deletion','Complete-data benchmark'))
+stopifnot(nrow(d)==132L,sum(d$kind=='Proposed with shrinkage')==3L,sum(d$kind=='Proposed without shrinkage')==3L)
+input<-read.csv('analysis_input_incomplete.csv');actual<-100*mean(is.na(input$y))
+p<-ggplot(d,aes(x=estimate,y=display,colour=kind,shape=kind))+geom_vline(xintercept=0,linetype=2,linewidth=.4,colour='grey35')+geom_segment(aes(x=lower,xend=upper,yend=display,linewidth=kind),show.legend=FALSE)+geom_point(aes(size=kind))+
+ scale_colour_manual(name='Result',values=c('Individual imputation'='#A0A0A0','Proposed without shrinkage'='#0072B2','Proposed with shrinkage'='#D55E00','Case deletion'='#333333','Complete-data benchmark'='#666666'))+
+ scale_shape_manual(name='Result',values=c(16,15,18,17,4))+scale_linewidth_manual(values=c(.25,.85,.85,.45,.45),guide='none')+scale_size_manual(values=c(.8,2.6,3,2,2),guide='none')+
+ scale_y_discrete(labels=function(x){x[x=='Pooled (shrinkage)']<-'Proposed with shrinkage';x[x=='Pooled (non-shrinkage)']<-'Proposed without shrinkage';x})+facet_wrap(~contrast,scales='free_x',nrow=1)+
+ labs(title='Litter: regression imputation - proposed procedures',subtitle=sprintf('40 regression imputations; 30%% target MAR (%.2f%% realized missingness)',actual),x='Dose minus control: point estimate and simultaneous 95% confidence interval',y='Imputed dataset / proposed procedure',caption='Highlighted rows combine all 40 regression imputations using Rubin rules. Blue square: without shrinkage; orange diamond: with shrinkage.\nGrey numbered rows are individual imputations. Colour identifies procedures, not significance or superiority.')+
+ theme_minimal(base_size=10)+theme(panel.grid.minor=element_blank(),strip.text=element_text(face='bold'),axis.text.y=element_text(size=8),legend.position='bottom',legend.text=element_text(size=8),plot.title=element_text(face='bold'),plot.caption=element_text(hjust=0,size=9))+
+ guides(colour=guide_legend(override.aes=list(size=c(1.5,3,3.5,2.5,2.5))))
+ggsave('comparison_graph.png',p,width=14,height=11,dpi=180,bg='white');ggsave('comparison_graph.pdf',p,width=14,height=11,bg='white');write.csv(d,'highlighted_forest_plot_data.csv',row.names=FALSE)

@@ -1,0 +1,1 @@
+Completed Litter application: 40 REG imputations; regression only; 500 validation repetitions requested.

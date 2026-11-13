@@ -1,0 +1,14 @@
+{
+  "imputation_method": "REG",
+  "imputations": 40,
+  "only_analysis_parameter_override": "all_methods: REG only; PMM and PS disabled per standing user instruction",
+  "validation_requested": 500,
+  "publication_run": false,
+  "primary_statistical_functions": "unchanged",
+  "parallel_validation_workers": 4,
+  "graph_labels": [
+    "Proposed with shrinkage",
+    "Proposed without shrinkage"
+  ],
+  "validation_export_repair": "Recomputed summaries from unchanged raw results; removed duplicated summary rows/Cartesian join and repaired NA standard deviations."
+}
