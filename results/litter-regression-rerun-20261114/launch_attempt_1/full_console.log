@@ -1,0 +1,61 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/socket.py", line 233, in __init__
+    _socket.socket.__init__(self, family, type, proto, fileno)
+PermissionError: [Errno 1] Operation not permitted
+
+============================================================
+LITTER DATASET: OBSERVED COMPLETE-DATA SUMMARY
+============================================================
+# A tibble: 4 × 10
+  group     n mean_y  sd_y variance_y mean_number sd_number mean_gesttime
+  <fct> <int>  <dbl> <dbl>      <dbl>       <dbl>     <dbl>         <dbl>
+1 0        20   32.3  2.70       7.26        13.4      3.02          22.1
+2 5        19   29.3  5.09      25.9         13.1      2.58          22.2
+3 50       18   29.9  3.76      14.2         14.7      1.50          21.9
+4 500      17   29.6  5.40      29.2         12.5      2.58          22.2
+# ℹ 2 more variables: sd_gesttime <dbl>, cor_y_x <dbl>
+
+Largest/smallest observed variance ratio = 4.021
+
+Complete-data shrinkage alpha_hat = 0.5038
+
+============================================================
+PRIMARY 30% MAR APPLICATION
+============================================================
+Realized overall missingness = 26/74 = 35.14%
+# A tibble: 4 × 6
+  group n_total n_observed n_missing missing_pct mean_p_missing
+  <fct>   <int>      <int>     <int>       <dbl>          <dbl>
+1 0          20         12         8        40             30.5
+2 5          19         13         6        31.6           28.2
+3 50         18         11         7        38.9           35.7
+4 500        17         12         5        29.4           25.3
+
+PRIMARY REGRESSION-MI APPLICATION TABLE:
+                                           method  contrast  estimate
+1                  Proposed method with shrinkage   5 vs. 0 -3.484772
+2                  Proposed method with shrinkage  50 vs. 0 -4.012900
+3                  Proposed method with shrinkage 500 vs. 0 -4.743593
+4               Proposed method without shrinkage   5 vs. 0 -3.484772
+5               Proposed method without shrinkage  50 vs. 0 -4.012900
+6               Proposed method without shrinkage 500 vs. 0 -4.743593
+7 Dunnett-type procedure with naive case deletion   5 vs. 0 -3.123269
+8 Dunnett-type procedure with naive case deletion  50 vs. 0 -3.460682
+9 Dunnett-type procedure with naive case deletion 500 vs. 0 -4.907500
+                CI   length
+1  (-8.122, 1.152) 9.273511
+2  (-8.915, 0.889) 9.804571
+3 (-9.245, -0.242) 9.003026
+4  (-8.018, 1.049) 9.066601
+5  (-8.726, 0.700) 9.425900
+6 (-9.148, -0.339) 8.809228
+7  (-6.957, 0.710) 7.666927
+8  (-7.119, 0.197) 7.315975
+9 (-8.964, -0.851) 8.112810
+
+============================================================
+REPEATED-MAR BENCHMARK VALIDATION
+Replications requested: 500
+============================================================
+FAILED: invalid 'port' argument

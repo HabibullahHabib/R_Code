@@ -1,0 +1,4 @@
+Validation summary export repaired from unchanged raw repetition-level results.
+Original dplyr summary recycled a vector-valued ifelse into 500 rows per group; this caused a many-to-many comparison join. Its sd(mean_interval_length) also operated on the newly summarized scalar and returned NA.
+Corrected export uses per-repetition aliases, a scalar version condition, two procedure summary rows and one direct comparison row.
+No imputations, treatment estimates, confidence intervals, original statistical functions, seeds or repetition outputs were changed. As-generated exports and warnings are retained in as_generated_validation_exports and warnings.csv.

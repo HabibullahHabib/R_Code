@@ -35,3 +35,5 @@
 [Corrected IBScovars application, 40 regression imputations](results/ibscovars-reference-style-regression/README.md).
 
 [Litter application, 40 regression imputations](results/litter-reference-style-regression/README.md).
+
+[Litter application, 40 regression imputations](results/litter-regression-rerun-20261114/README.md).
