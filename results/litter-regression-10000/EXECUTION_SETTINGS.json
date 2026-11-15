@@ -1,0 +1,9 @@
+{
+  "imputation_method": "REG",
+  "imputations": 40,
+  "validation_requested": 10000,
+  "publication_run": true,
+  "workers": 4,
+  "reused_repetitions": 500,
+  "summary_export_fix": "Scalar condition and SD before mean; no statistical-function changes"
+}

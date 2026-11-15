@@ -1,0 +1,4 @@
+Validation summary export repaired from unchanged raw repetition-level results.
+The summary-export bug was corrected before this 10000-repetition run. This independent export check recalculates summaries from raw results.
+Corrected export uses per-repetition aliases, a scalar version condition, two procedure summary rows and one direct comparison row.
+No imputations, treatment estimates, confidence intervals, original statistical functions, seeds or repetition outputs were changed. As-generated exports and warnings are retained in as_generated_validation_exports and warnings.csv.

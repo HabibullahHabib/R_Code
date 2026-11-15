@@ -1,0 +1,22 @@
+\begin{table}[htbp]
+\centering
+\caption{Litter application: regression imputation, 40 imputations.}
+\begin{tabular}{lccc}
+\hline
+Dose comparison & Point estimate & Simultaneous 95\% CI & Length \\
+\hline
+\multicolumn{4}{l}{Proposed method with shrinkage} \\
+5 vs. 0 & -3.485 & $(-8.122, 1.152)$ & 9.274 \\
+50 vs. 0 & -4.013 & $(-8.915, 0.889)$ & 9.805 \\
+500 vs. 0 & -4.744 & $(-9.245, -0.242)$ & 9.003 \\
+\multicolumn{4}{l}{Proposed method without shrinkage} \\
+5 vs. 0 & -3.485 & $(-8.018, 1.049)$ & 9.067 \\
+50 vs. 0 & -4.013 & $(-8.726, 0.700)$ & 9.426 \\
+500 vs. 0 & -4.744 & $(-9.148, -0.339)$ & 8.809 \\
+\multicolumn{4}{l}{Dunnett-type procedure with naive case deletion} \\
+5 vs. 0 & -3.123 & $(-6.957, 0.710)$ & 7.667 \\
+50 vs. 0 & -3.461 & $(-7.119, 0.197)$ & 7.316 \\
+500 vs. 0 & -4.907 & $(-8.964, -0.851)$ & 8.113 \\
+\hline
+\end{tabular}
+\end{table}
