@@ -1,0 +1,18 @@
+{
+  "saved_repetitions": 0,
+  "requested_repetitions": 10000,
+  "imputations_per_repetition": 40,
+  "sha256": {
+    "select_subset.R": "553fb044c68ace12384af3a9c99de2e388dba6df536faa721494b2275a8e557e",
+    "selected_patients.csv": "3b73611f72a46ae9170165a29f2a9fcf71875dff899ab4f98704100ce62a2613",
+    "export_report.R": "71a2ef055fade1a203a332e6f99242697d90e2f02a7cc35e3cb1e173081e541a",
+    "original_application.R": "697f945fda929eb715129d2cd0d33fcdde56decd5d032e379f087b88818bf8d7",
+    "run_study.R": "e5bc3e28c6ff65301fc01352cfe2f0c70596d92fdaf3fd3898669ece077eac27",
+    "README.md": "c058f508ed9ad2ec7a5125ac7b24073318d265fe448552accb286c2c0f96cead",
+    "run.sh": "e5d684cb2ea4cfe5406636e2ef9031f6814f70a20fd7b9c6a419523b27552152",
+    "selection_manifest.json": "4803ce1d30d05321a42c00b9b686a9d732d7bd7d71bf9c4f6f85b3fbfed2c340",
+    "controller.py": "3f30ad5dc1731868e939ce5cdfb8a689a68d158347e13e8268ef7c83afe62b86",
+    "publish_results.py": "58e240cae2e0195a296659c4e2c7ab6c129fcb337dc797d60bd965eabe66130c"
+  },
+  "created_utc": "2026-11-15T22:12:08.601020+00:00"
+}
