@@ -39,3 +39,5 @@
 [Litter application, 40 regression imputations](results/litter-regression-rerun-20261114/README.md).
 
 [Litter application, 40 regression imputations](results/litter-regression-10000/README.md).
+
+[Paired regression-only study: paired-ibscovars-random100-regression](results/paired-ibscovars-random100-regression/README.md).

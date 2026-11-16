@@ -1,0 +1,5 @@
+"metric","estimate","monte_carlo_se","mc95_lower","mc95_upper"
+"Width reduction: non-shrinkage minus shrinkage",-0.0300354867179028,0.000179540350263492,-0.0303873858044193,-0.0296835876313864
+"Mean percentage width reduction",-2.06194222495301,0.0126817330415871,-2.08679842171452,-2.0370860281915
+"Repetitions in which shrinkage is narrower (%)",6.05453087409783,0.238793068690392,5.58649645946467,6.522565288731
+"Joint benchmark recovery difference: shrinkage minus non-shrinkage (percentage points)",0.0400962309542903,0.0200451004962307,0.000807833981678087,0.0793846279269025

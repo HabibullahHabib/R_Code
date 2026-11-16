@@ -1,0 +1,3 @@
+"procedure","successful_repetitions","mean_interval_width","joint_benchmark_recovery_pct","mean_achieved_missing_pct"
+"Non-shrinkage",9976,1.49210148970604,99.9498797113071,29.9954891740176
+"Shrinkage",9976,1.52213697642395,99.9899759422614,29.9954891740176
